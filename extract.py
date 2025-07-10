@@ -14,7 +14,7 @@ def extract_operators_info(html_file_path):
     soup = BeautifulSoup(html_content, 'html.parser')
     
     # 查找所有干员容器
-    operator_containers = soup.find_all('div', class_='long-container') # short-container
+    operator_containers = soup.find_all('div', class_=['long-container', 'short-container'])
 
     operators_data = []
     
