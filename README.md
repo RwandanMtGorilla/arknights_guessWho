@@ -32,13 +32,14 @@ uv run main.py
 
 ## 代码解释
 
-`main.py`: 基于fastapi 启动网页端后端
-`index.html`: 网页端前端代码
-`excel_generator_packaged.py` 适合没有公网ip条件时 用excel作为游戏载体
+- `main.py`: 基于fastapi 启动网页端后端
+- `index.html`: 网页端前端代码
+- `excel_generator_packaged.py` 适合没有公网ip条件时 用excel作为游戏载体
 
-`input.html`: [方舟wiki](https://prts.wiki/w/%E5%B9%B2%E5%91%98%E4%B8%80%E8%A7%88) 上复制来的htlm页面代码 （只含6星干员 可自选其他范围）
-`extract.py`: 读取`input.html` 抽取出信息，存入`operators_data.json`
-`operators_data.json`: 干员名称等页面抽取到的信息
-`downloader`: 读取`operators_data.json`获取头像链接 并下载头像png存储于`avatars`文件夹
+
+- `input.html`: [方舟wiki](https://prts.wiki/w/%E5%B9%B2%E5%91%98%E4%B8%80%E8%A7%88) 上复制来的htlm页面代码 （只含6星干员 可自选其他范围）
+- `extract.py`: 读取`input.html` 抽取出信息，存入`operators_data.json`
+- `operators_data.json`: 干员名称等页面抽取到的信息
+- `downloader`: 读取`operators_data.json`获取头像链接 并下载头像png存储于`avatars`文件夹
 
 
