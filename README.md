@@ -19,7 +19,7 @@ git clone https://github.com/RwandanMtGorilla/arknights_guessWho.git
 uv venv --python 3.9
 .venv\Scripts\activate
 
-uv pip install -r requirements.txt
+uv pip install -r requirements.txt -i https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
 
 
 ```
