@@ -226,7 +226,7 @@ def download_all_avatars(json_file='operators_data.json', avatars_folder='avatar
                     failed_downloads += 1
                 
                 # 在下载之间添加延迟
-                time.sleep(1)
+                time.sleep(0)
                 
             except Exception as e:
                 print(f"处理 {operator.get('姓名', 'Unknown')} 时发生异常: {e}")

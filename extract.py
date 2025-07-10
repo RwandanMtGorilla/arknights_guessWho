@@ -14,8 +14,8 @@ def extract_operators_info(html_file_path):
     soup = BeautifulSoup(html_content, 'html.parser')
     
     # 查找所有干员容器
-    operator_containers = soup.find_all('div', class_='short-container')
-    
+    operator_containers = soup.find_all('div', class_='long-container') # short-container
+
     operators_data = []
     
     for container in operator_containers:
@@ -31,7 +31,7 @@ def extract_operators_info(html_file_path):
                 if avatar_url:
                     filename = avatar_url.split('/')[-1]
                     operator_info['头像本地路径'] = f"avatars/{filename}"
-            
+
             # 提取姓名信息
             name_section = container.find('div', class_='name')
             if name_section:
@@ -145,7 +145,7 @@ def extract_operators_info(html_file_path):
         except Exception as e:
             print(f"提取干员信息时出错: {e}")
             continue
-    
+
     return operators_data
 
 def save_operators_to_json(operators_data, output_file='operators_data.json'):
