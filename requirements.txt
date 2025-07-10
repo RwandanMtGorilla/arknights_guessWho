@@ -1,3 +1,4 @@
 fastapi
 BeautifulSoup4
 requests
+uvicorn
