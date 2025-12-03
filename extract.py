@@ -2,6 +2,7 @@ import json
 import os
 from bs4 import BeautifulSoup
 import re
+import hashlib
 
 def extract_operators_info(html_file_path):
     """
@@ -122,12 +123,17 @@ def extract_operators_info(html_file_path):
                 operator_info['特性'] = feature_text
 
             # 构建头像URL（基于干员名称）
+            # MediaWiki使用文件名的MD5哈希来生成路径: {hash[0]}/{hash[0:2]}/filename
             if 'data-zh' in attrs:
                 name = attrs['data-zh']
-                # 头像URL通常是 https://media.prts.wiki/[id]/[id]_头像_[name].png
-                # 但我们先不填这个，在downloader中处理
-                operator_info['头像URL'] = f"https://media.prts.wiki/thumb/头像_{name}.png"
-                operator_info['头像本地路径'] = f"avatars/头像_{name}.png"
+                filename = f"头像_{name}.png"
+
+                # 计算MD5哈希
+                md5_hash = hashlib.md5(filename.encode('utf-8')).hexdigest()
+
+                # 生成完整URL
+                operator_info['头像URL'] = f"https://media.prts.wiki/{md5_hash[0]}/{md5_hash[0:2]}/{filename}"
+                operator_info['头像本地路径'] = f"avatars/{filename}"
 
             # 只添加有姓名的干员
             if '姓名' in operator_info:

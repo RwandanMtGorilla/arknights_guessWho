@@ -25,7 +25,7 @@
     ],
     "获取方式": "公开招募, 主线剧情",
     "特性": "攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_12F.png",
+    "头像URL": "https://media.prts.wiki/b/b7/头像_12F.png",
     "头像本地路径": "avatars/头像_12F.png"
   },
   {
@@ -53,7 +53,7 @@
     ],
     "获取方式": "公开招募",
     "特性": "能够阻挡一个敌人，且不受部署数量限制，但再部署时间极长",
-    "头像URL": "https://media.prts.wiki/thumb/头像_Castle-3.png",
+    "头像URL": "https://media.prts.wiki/8/82/头像_Castle-3.png",
     "头像本地路径": "avatars/头像_Castle-3.png"
   },
   {
@@ -81,7 +81,7 @@
     ],
     "获取方式": "公开招募, 活动获得",
     "特性": "能够阻挡两个敌人，且不受部署数量限制，但再部署时间极长",
-    "头像URL": "https://media.prts.wiki/thumb/头像_CONFESS-47.png",
+    "头像URL": "https://media.prts.wiki/c/c4/头像_CONFESS-47.png",
     "头像本地路径": "avatars/头像_CONFESS-47.png"
   },
   {
@@ -109,7 +109,7 @@
     ],
     "获取方式": "公开招募, 活动获得",
     "特性": "能够阻挡三个敌人，且不受部署数量限制，但再部署时间极长",
-    "头像URL": "https://media.prts.wiki/thumb/头像_Friston-3.png",
+    "头像URL": "https://media.prts.wiki/c/cf/头像_Friston-3.png",
     "头像本地路径": "avatars/头像_Friston-3.png"
   },
   {
@@ -137,7 +137,7 @@
     ],
     "获取方式": "公开招募, 主线剧情",
     "特性": "恢复友方单位生命，且不受部署数量限制，但再部署时间极长",
-    "头像URL": "https://media.prts.wiki/thumb/头像_Lancet-2.png",
+    "头像URL": "https://media.prts.wiki/b/b6/头像_Lancet-2.png",
     "头像本地路径": "avatars/头像_Lancet-2.png"
   },
   {
@@ -167,7 +167,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "攻击造成法术伤害，可以造成元素伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_Miss.Christine.png",
+    "头像URL": "https://media.prts.wiki/1/10/头像_Miss.Christine.png",
     "头像本地路径": "avatars/头像_Miss.Christine.png"
   },
   {
@@ -198,7 +198,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低25%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_Mon3tr.png",
+    "头像URL": "https://media.prts.wiki/2/2a/头像_Mon3tr.png",
     "头像本地路径": "avatars/头像_Mon3tr.png"
   },
   {
@@ -226,7 +226,7 @@
     ],
     "获取方式": "公开招募, 活动获得",
     "特性": "攻击造成法术伤害，可以造成元素损伤，且不受部署数量限制，但再部署时间极长",
-    "头像URL": "https://media.prts.wiki/thumb/头像_PhonoR-0.png",
+    "头像URL": "https://media.prts.wiki/3/3d/头像_PhonoR-0.png",
     "头像本地路径": "avatars/头像_PhonoR-0.png"
   },
   {
@@ -254,7 +254,7 @@
     ],
     "获取方式": "公开招募, 主线剧情, 活动获得",
     "特性": "不进行攻击，且不受部署数量限制，但再部署时间极长",
-    "头像URL": "https://media.prts.wiki/thumb/头像_THRM-EX.png",
+    "头像URL": "https://media.prts.wiki/d/d8/头像_THRM-EX.png",
     "头像本地路径": "avatars/头像_THRM-EX.png"
   },
   {
@@ -283,7 +283,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "不攻击，持续恢复范围内所有友军生命（每秒恢复相当于自身攻击力10%的生命），自身不受鼓舞术语: 鼓舞获得额外附加的基础属性加成（同类属性取最高）※给予他人鼓舞效果的角色会将自身的鼓舞BUFF重写后适用于受益者（先最终乘算计算加成数值后，重写为最终加算，再将鼓舞赋予受益者）※同类效果取倍率最高（非最终数值）生效影响，且不受部署数量限制，但再部署时间极长",
-    "头像URL": "https://media.prts.wiki/thumb/头像_U-Official.png",
+    "头像URL": "https://media.prts.wiki/4/45/头像_U-Official.png",
     "头像本地路径": "avatars/头像_U-Official.png"
   },
   {
@@ -314,7 +314,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "攻击造成群体物理伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_W.png",
+    "头像URL": "https://media.prts.wiki/d/d6/头像_W.png",
     "头像本地路径": "avatars/头像_W.png"
   },
   {
@@ -344,7 +344,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "技能发动期间阻挡数变为0",
-    "头像URL": "https://media.prts.wiki/thumb/头像_万顷.png",
+    "头像URL": "https://media.prts.wiki/a/ad/头像_万顷.png",
     "头像本地路径": "avatars/头像_万顷.png"
   },
   {
@@ -374,7 +374,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞术语: 鼓舞获得额外附加的基础属性加成（同类属性取最高）※给予他人鼓舞效果的角色会将自身的鼓舞BUFF重写后适用于受益者（先最终乘算计算加成数值后，重写为最终加算，再将鼓舞赋予受益者）※同类效果取倍率最高（非最终数值）生效影响",
-    "头像URL": "https://media.prts.wiki/thumb/头像_三角初华.png",
+    "头像URL": "https://media.prts.wiki/b/b4/头像_三角初华.png",
     "头像本地路径": "avatars/头像_三角初华.png"
   },
   {
@@ -403,7 +403,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "可以进行远程攻击，但此时攻击力降低至80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_丰川祥子.png",
+    "头像URL": "https://media.prts.wiki/c/cb/头像_丰川祥子.png",
     "头像本地路径": "avatars/头像_丰川祥子.png"
   },
   {
@@ -433,7 +433,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "技能可以治疗友方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_临光.png",
+    "头像URL": "https://media.prts.wiki/1/1a/头像_临光.png",
     "头像本地路径": "avatars/头像_临光.png"
   },
   {
@@ -464,7 +464,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "同时攻击阻挡的所有敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_乌尔比安.png",
+    "头像URL": "https://media.prts.wiki/3/33/头像_乌尔比安.png",
     "头像本地路径": "avatars/头像_乌尔比安.png"
   },
   {
@@ -494,7 +494,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_乌有.png",
+    "头像URL": "https://media.prts.wiki/0/04/头像_乌有.png",
     "头像本地路径": "avatars/头像_乌有.png"
   },
   {
@@ -524,7 +524,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_九色鹿.png",
+    "头像URL": "https://media.prts.wiki/a/ab/头像_九色鹿.png",
     "头像本地路径": "avatars/头像_九色鹿.png"
   },
   {
@@ -554,7 +554,7 @@
     ],
     "获取方式": "凭证交易所(采购)",
     "特性": "起飞术语: 起飞不阻挡地面敌人且不会被地面敌人攻击，可以阻挡飞行敌人※包含地面规避异常效果: 地面规避无法被行动方式为地面的敌对阵营单位选中（可选性效果）※行动方式默认为地面，因此规避对象包括绝大部分角色类单位（干员、装置等）。（无法被敌对阵营的地面单位选中），可以阻挡近地悬浮单位※起飞的干员并非真正的飞行单位，不受攻击“是否对空”的影响后能够阻挡2个飞行敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_云迹.png",
+    "头像URL": "https://media.prts.wiki/6/67/头像_云迹.png",
     "头像本地路径": "avatars/头像_云迹.png"
   },
   {
@@ -584,7 +584,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "恢复友方单位生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_亚叶.png",
+    "头像URL": "https://media.prts.wiki/b/b5/头像_亚叶.png",
     "头像本地路径": "avatars/头像_亚叶.png"
   },
   {
@@ -614,7 +614,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "可以进行远程攻击，但此时攻击力降低至80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_仇白.png",
+    "头像URL": "https://media.prts.wiki/8/8a/头像_仇白.png",
     "头像本地路径": "avatars/头像_仇白.png"
   },
   {
@@ -646,7 +646,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "攻击造成法术伤害可以使用召唤物协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_令.png",
+    "头像URL": "https://media.prts.wiki/2/2c/头像_令.png",
     "头像本地路径": "avatars/头像_令.png"
   },
   {
@@ -677,7 +677,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "再部署时间减少，可使用远程攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_伊内丝.png",
+    "头像URL": "https://media.prts.wiki/8/8c/头像_伊内丝.png",
     "头像本地路径": "avatars/头像_伊内丝.png"
   },
   {
@@ -707,7 +707,7 @@
     ],
     "获取方式": "凭证交易所(采购)",
     "特性": "对攻击范围内所有敌人造成伤害拥有50%的物理和法术闪避且不容易成为敌人的攻击目标",
-    "头像URL": "https://media.prts.wiki/thumb/头像_伊桑.png",
+    "头像URL": "https://media.prts.wiki/c/c1/头像_伊桑.png",
     "头像本地路径": "avatars/头像_伊桑.png"
   },
   {
@@ -738,7 +738,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成超远距离的群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_伊芙利特.png",
+    "头像URL": "https://media.prts.wiki/e/ed/头像_伊芙利特.png",
     "头像本地路径": "avatars/头像_伊芙利特.png"
   },
   {
@@ -768,7 +768,7 @@
     ],
     "获取方式": "标准寻访, 中坚寻访",
     "特性": "无法被友方角色治疗，攻击造成群体伤害，每攻击到一个敌人回复自身50生命，最大生效数等于阻挡数",
-    "头像URL": "https://media.prts.wiki/thumb/头像_休谟斯.png",
+    "头像URL": "https://media.prts.wiki/e/e0/头像_休谟斯.png",
     "头像本地路径": "avatars/头像_休谟斯.png"
   },
   {
@@ -798,7 +798,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_伺夜.png",
+    "头像URL": "https://media.prts.wiki/d/df/头像_伺夜.png",
     "头像本地路径": "avatars/头像_伺夜.png"
   },
   {
@@ -828,7 +828,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，并对敌人造成短暂的停顿术语: 停顿移动速度降低80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_但书.png",
+    "头像URL": "https://media.prts.wiki/b/b0/头像_但书.png",
     "头像本地路径": "avatars/头像_但书.png"
   },
   {
@@ -859,7 +859,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "能够阻挡三个敌人，可以造成元素损伤",
-    "头像URL": "https://media.prts.wiki/thumb/头像_余.png",
+    "头像URL": "https://media.prts.wiki/6/66/头像_余.png",
     "头像本地路径": "avatars/头像_余.png"
   },
   {
@@ -889,7 +889,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "攻击使目标周围的其他敌人受到相当于攻击力50%的群体物理伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_佩佩.png",
+    "头像URL": "https://media.prts.wiki/8/85/头像_佩佩.png",
     "头像本地路径": "avatars/头像_佩佩.png"
   },
   {
@@ -920,7 +920,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "能够阻挡三个敌人，可以进行远程攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_信仰搅拌机.png",
+    "头像URL": "https://media.prts.wiki/1/13/头像_信仰搅拌机.png",
     "头像本地路径": "avatars/头像_信仰搅拌机.png"
   },
   {
@@ -950,7 +950,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_假日威龙陈.png",
+    "头像URL": "https://media.prts.wiki/d/df/头像_假日威龙陈.png",
     "头像本地路径": "avatars/头像_假日威龙陈.png"
   },
   {
@@ -981,7 +981,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "再部署时间大幅度减少",
-    "头像URL": "https://media.prts.wiki/thumb/头像_傀影.png",
+    "头像URL": "https://media.prts.wiki/8/83/头像_傀影.png",
     "头像本地路径": "avatars/头像_傀影.png"
   },
   {
@@ -1010,7 +1010,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访, 主线剧情",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_克洛丝.png",
+    "头像URL": "https://media.prts.wiki/b/b9/头像_克洛丝.png",
     "头像本地路径": "avatars/头像_克洛丝.png"
   },
   {
@@ -1040,7 +1040,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "对攻击范围内所有敌人造成伤害拥有50%的物理和法术闪避且不容易成为敌人的攻击目标",
-    "头像URL": "https://media.prts.wiki/thumb/头像_八幡海铃.png",
+    "头像URL": "https://media.prts.wiki/f/f2/头像_八幡海铃.png",
     "头像本地路径": "avatars/头像_八幡海铃.png"
   },
   {
@@ -1070,7 +1070,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "再部署时间减少，可使用远程攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_冬时.png",
+    "头像URL": "https://media.prts.wiki/2/27/头像_冬时.png",
     "头像本地路径": "avatars/头像_冬时.png"
   },
   {
@@ -1099,7 +1099,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_冰酿.png",
+    "头像URL": "https://media.prts.wiki/c/cf/头像_冰酿.png",
     "头像本地路径": "avatars/头像_冰酿.png"
   },
   {
@@ -1129,7 +1129,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_凛冬.png",
+    "头像URL": "https://media.prts.wiki/c/cd/头像_凛冬.png",
     "头像本地路径": "avatars/头像_凛冬.png"
   },
   {
@@ -1159,7 +1159,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "能够阻挡两个敌人，可以支援待部署区的我方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_凛御银灰.png",
+    "头像URL": "https://media.prts.wiki/3/3d/头像_凛御银灰.png",
     "头像本地路径": "avatars/头像_凛御银灰.png"
   },
   {
@@ -1188,7 +1188,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "攻击造成法术伤害，可以造成元素损伤",
-    "头像URL": "https://media.prts.wiki/thumb/头像_凛视.png",
+    "头像URL": "https://media.prts.wiki/e/e3/头像_凛视.png",
     "头像本地路径": "avatars/头像_凛视.png"
   },
   {
@@ -1218,7 +1218,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "恢复友方单位生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_凯尔希.png",
+    "头像URL": "https://media.prts.wiki/c/c5/头像_凯尔希.png",
     "头像本地路径": "avatars/头像_凯尔希.png"
   },
   {
@@ -1248,7 +1248,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "能够阻挡两个敌人，使用<支援装置>协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_凯瑟琳.png",
+    "头像URL": "https://media.prts.wiki/e/e9/头像_凯瑟琳.png",
     "头像本地路径": "avatars/头像_凯瑟琳.png"
   },
   {
@@ -1278,7 +1278,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_初雪.png",
+    "头像URL": "https://media.prts.wiki/d/d7/头像_初雪.png",
     "头像本地路径": "avatars/头像_初雪.png"
   },
   {
@@ -1307,7 +1307,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于50%伤害的生命值",
-    "头像URL": "https://media.prts.wiki/thumb/头像_刺玫.png",
+    "头像URL": "https://media.prts.wiki/c/c6/头像_刺玫.png",
     "头像本地路径": "avatars/头像_刺玫.png"
   },
   {
@@ -1337,7 +1337,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_刻俄柏.png",
+    "头像URL": "https://media.prts.wiki/4/4a/头像_刻俄柏.png",
     "头像本地路径": "avatars/头像_刻俄柏.png"
   },
   {
@@ -1367,7 +1367,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "普通攻击连续造成两次伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_刻刀.png",
+    "头像URL": "https://media.prts.wiki/2/2c/头像_刻刀.png",
     "头像本地路径": "avatars/头像_刻刀.png"
   },
   {
@@ -1397,7 +1397,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_医生.png",
+    "头像URL": "https://media.prts.wiki/1/11/头像_医生.png",
     "头像本地路径": "avatars/头像_医生.png"
   },
   {
@@ -1427,7 +1427,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "恢复友方单位生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_华法琳.png",
+    "头像URL": "https://media.prts.wiki/3/30/头像_华法琳.png",
     "头像本地路径": "avatars/头像_华法琳.png"
   },
   {
@@ -1457,7 +1457,7 @@
     ],
     "获取方式": "凭证交易所(采购)",
     "特性": "攻击造成超远距离的群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_协律.png",
+    "头像URL": "https://media.prts.wiki/8/8e/头像_协律.png",
     "头像本地路径": "avatars/头像_协律.png"
   },
   {
@@ -1487,7 +1487,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "再部署时间大幅度减少",
-    "头像URL": "https://media.prts.wiki/thumb/头像_卡夫卡.png",
+    "头像URL": "https://media.prts.wiki/8/8d/头像_卡夫卡.png",
     "头像本地路径": "avatars/头像_卡夫卡.png"
   },
   {
@@ -1517,7 +1517,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_卡涅利安.png",
+    "头像URL": "https://media.prts.wiki/d/dd/头像_卡涅利安.png",
     "头像本地路径": "avatars/头像_卡涅利安.png"
   },
   {
@@ -1546,7 +1546,7 @@
     ],
     "获取方式": "标准寻访, 中坚寻访",
     "特性": "能够阻挡三个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_卡缇.png",
+    "头像URL": "https://media.prts.wiki/8/87/头像_卡缇.png",
     "头像本地路径": "avatars/头像_卡缇.png"
   },
   {
@@ -1576,7 +1576,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "操作浮游单元造成法术伤害单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_卡达.png",
+    "头像URL": "https://media.prts.wiki/4/43/头像_卡达.png",
     "头像本地路径": "avatars/头像_卡达.png"
   },
   {
@@ -1606,7 +1606,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
-    "头像URL": "https://media.prts.wiki/thumb/头像_历阵锐枪芬.png",
+    "头像URL": "https://media.prts.wiki/5/5a/头像_历阵锐枪芬.png",
     "头像本地路径": "avatars/头像_历阵锐枪芬.png"
   },
   {
@@ -1636,7 +1636,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20s后自身再次替换<替身>",
-    "头像URL": "https://media.prts.wiki/thumb/头像_双月.png",
+    "头像URL": "https://media.prts.wiki/f/ff/头像_双月.png",
     "头像本地路径": "avatars/头像_双月.png"
   },
   {
@@ -1666,7 +1666,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "技能可以治疗友方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_古米.png",
+    "头像URL": "https://media.prts.wiki/0/07/头像_古米.png",
     "头像本地路径": "avatars/头像_古米.png"
   },
   {
@@ -1697,7 +1697,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "能够阻挡三个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_可颂.png",
+    "头像URL": "https://media.prts.wiki/a/ab/头像_可颂.png",
     "头像本地路径": "avatars/头像_可颂.png"
   },
   {
@@ -1726,7 +1726,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_史尔特尔.png",
+    "头像URL": "https://media.prts.wiki/e/e1/头像_史尔特尔.png",
     "头像本地路径": "avatars/头像_史尔特尔.png"
   },
   {
@@ -1755,7 +1755,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_史都华德.png",
+    "头像URL": "https://media.prts.wiki/b/b3/头像_史都华德.png",
     "头像本地路径": "avatars/头像_史都华德.png"
   },
   {
@@ -1785,7 +1785,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "不阻挡敌人时优先远程群体物理攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_号角.png",
+    "头像URL": "https://media.prts.wiki/3/3f/头像_号角.png",
     "头像本地路径": "avatars/头像_号角.png"
   },
   {
@@ -1815,7 +1815,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "通常不攻击且阻挡数为0，技能未开启时40秒内攻击力逐渐提升至最高+200%且技能结束时重置攻击力",
-    "头像URL": "https://media.prts.wiki/thumb/头像_司霆惊蛰.png",
+    "头像URL": "https://media.prts.wiki/5/5c/头像_司霆惊蛰.png",
     "头像本地路径": "avatars/头像_司霆惊蛰.png"
   },
   {
@@ -1844,7 +1844,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_吉星.png",
+    "头像URL": "https://media.prts.wiki/f/fa/头像_吉星.png",
     "头像本地路径": "avatars/头像_吉星.png"
   },
   {
@@ -1874,7 +1874,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "技能可以治疗友方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_吽.png",
+    "头像URL": "https://media.prts.wiki/4/41/头像_吽.png",
     "头像本地路径": "avatars/头像_吽.png"
   },
   {
@@ -1904,7 +1904,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_和弦.png",
+    "头像URL": "https://media.prts.wiki/e/ed/头像_和弦.png",
     "头像本地路径": "avatars/头像_和弦.png"
   },
   {
@@ -1933,7 +1933,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤术语: 元素损伤包括神经损伤、侵蚀损伤、灼燃损伤、凋亡损伤※最大元素值默认为1000，受到附加元素损伤的伤害时先结算伤害后结算元素损伤（可以回复未受伤友方单位的元素损伤术语: 元素损伤包括神经损伤、侵蚀损伤、灼燃损伤、凋亡损伤※最大元素值默认为1000，受到附加元素损伤的伤害时先结算伤害后结算元素损伤）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_哈洛德.png",
+    "头像URL": "https://media.prts.wiki/2/22/头像_哈洛德.png",
     "头像本地路径": "avatars/头像_哈洛德.png"
   },
   {
@@ -1963,7 +1963,7 @@
     ],
     "获取方式": "凭证交易所(采购)",
     "特性": "可消耗部署费用来强化作战能力",
-    "头像URL": "https://media.prts.wiki/thumb/头像_哈蒂娅.png",
+    "头像URL": "https://media.prts.wiki/3/3c/头像_哈蒂娅.png",
     "头像本地路径": "avatars/头像_哈蒂娅.png"
   },
   {
@@ -1992,7 +1992,7 @@
     ],
     "获取方式": "信用交易所",
     "特性": "恢复友方单位生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_嘉维尔.png",
+    "头像URL": "https://media.prts.wiki/c/cc/头像_嘉维尔.png",
     "头像本地路径": "avatars/头像_嘉维尔.png"
   },
   {
@@ -2021,7 +2021,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_四月.png",
+    "头像URL": "https://media.prts.wiki/d/d3/头像_四月.png",
     "头像本地路径": "avatars/头像_四月.png"
   },
   {
@@ -2052,7 +2052,7 @@
     ],
     "获取方式": "公开招募",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_因陀罗.png",
+    "头像URL": "https://media.prts.wiki/f/fe/头像_因陀罗.png",
     "头像本地路径": "avatars/头像_因陀罗.png"
   },
   {
@@ -2081,7 +2081,7 @@
     ],
     "获取方式": "活动获得, 凭证交易所(高级/通用)",
     "特性": "恢复友方单位生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_图耶.png",
+    "头像URL": "https://media.prts.wiki/9/93/头像_图耶.png",
     "头像本地路径": "avatars/头像_图耶.png"
   },
   {
@@ -2110,7 +2110,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "无法被友方角色治疗，攻击造成群体伤害，每攻击到一个敌人回复自身50生命，最大生效数等于阻挡数",
-    "头像URL": "https://media.prts.wiki/thumb/头像_圣约送葬人.png",
+    "头像URL": "https://media.prts.wiki/7/7e/头像_圣约送葬人.png",
     "头像本地路径": "avatars/头像_圣约送葬人.png"
   },
   {
@@ -2140,7 +2140,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_圣聆初雪.png",
+    "头像URL": "https://media.prts.wiki/a/ab/头像_圣聆初雪.png",
     "头像本地路径": "avatars/头像_圣聆初雪.png"
   },
   {
@@ -2169,7 +2169,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "攻击造成法术伤害，并对敌人造成短暂的停顿术语: 停顿移动速度降低80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_地灵.png",
+    "头像URL": "https://media.prts.wiki/5/57/头像_地灵.png",
     "头像本地路径": "avatars/头像_地灵.png"
   },
   {
@@ -2199,7 +2199,7 @@
     ],
     "获取方式": "信用交易所",
     "特性": "技能开启时普通攻击会造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_坚雷.png",
+    "头像URL": "https://media.prts.wiki/a/ab/头像_坚雷.png",
     "头像本地路径": "avatars/头像_坚雷.png"
   },
   {
@@ -2229,7 +2229,7 @@
     ],
     "获取方式": "活动获得, 凭证交易所(高级/通用)",
     "特性": "优先攻击重量最重的敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_埃拉托.png",
+    "头像URL": "https://media.prts.wiki/3/34/头像_埃拉托.png",
     "头像本地路径": "avatars/头像_埃拉托.png"
   },
   {
@@ -2259,7 +2259,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "攻击造成法术伤害，可以造成元素损伤",
-    "头像URL": "https://media.prts.wiki/thumb/头像_塑心.png",
+    "头像URL": "https://media.prts.wiki/0/05/头像_塑心.png",
     "头像本地路径": "avatars/头像_塑心.png"
   },
   {
@@ -2291,7 +2291,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "技能可以治疗友方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_塞雷娅.png",
+    "头像URL": "https://media.prts.wiki/e/ee/头像_塞雷娅.png",
     "头像本地路径": "avatars/头像_塞雷娅.png"
   },
   {
@@ -2321,7 +2321,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_夏栎.png",
+    "头像URL": "https://media.prts.wiki/0/08/头像_夏栎.png",
     "头像本地路径": "avatars/头像_夏栎.png"
   },
   {
@@ -2353,7 +2353,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_夕.png",
+    "头像URL": "https://media.prts.wiki/6/6b/头像_夕.png",
     "头像本地路径": "avatars/头像_夕.png"
   },
   {
@@ -2384,7 +2384,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中",
-    "头像URL": "https://media.prts.wiki/thumb/头像_多萝西.png",
+    "头像URL": "https://media.prts.wiki/4/4f/头像_多萝西.png",
     "头像本地路径": "avatars/头像_多萝西.png"
   },
   {
@@ -2413,7 +2413,7 @@
     ],
     "获取方式": "公开招募",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_夜刀.png",
+    "头像URL": "https://media.prts.wiki/b/b2/头像_夜刀.png",
     "头像本地路径": "avatars/头像_夜刀.png"
   },
   {
@@ -2443,7 +2443,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_夜半.png",
+    "头像URL": "https://media.prts.wiki/a/a1/头像_夜半.png",
     "头像本地路径": "avatars/头像_夜半.png"
   },
   {
@@ -2473,7 +2473,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_夜烟.png",
+    "头像URL": "https://media.prts.wiki/5/55/头像_夜烟.png",
     "头像本地路径": "avatars/头像_夜烟.png"
   },
   {
@@ -2503,7 +2503,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "同时恢复三个友方单位的生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_夜莺.png",
+    "头像URL": "https://media.prts.wiki/6/64/头像_夜莺.png",
     "头像本地路径": "avatars/头像_夜莺.png"
   },
   {
@@ -2534,7 +2534,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_夜魔.png",
+    "头像URL": "https://media.prts.wiki/a/a7/头像_夜魔.png",
     "头像本地路径": "avatars/头像_夜魔.png"
   },
   {
@@ -2564,7 +2564,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_天火.png",
+    "头像URL": "https://media.prts.wiki/f/fa/头像_天火.png",
     "头像本地路径": "avatars/头像_天火.png"
   },
   {
@@ -2593,7 +2593,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_奥斯塔.png",
+    "头像URL": "https://media.prts.wiki/4/49/头像_奥斯塔.png",
     "头像本地路径": "avatars/头像_奥斯塔.png"
   },
   {
@@ -2623,7 +2623,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "攻击使目标周围的其他敌人受到相当于攻击力50%的群体物理伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_奥达.png",
+    "头像URL": "https://media.prts.wiki/2/29/头像_奥达.png",
     "头像本地路径": "avatars/头像_奥达.png"
   },
   {
@@ -2654,7 +2654,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，可以造成元素伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_妮芙.png",
+    "头像URL": "https://media.prts.wiki/1/1a/头像_妮芙.png",
     "头像本地路径": "avatars/头像_妮芙.png"
   },
   {
@@ -2683,7 +2683,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "持有回旋投射物时才能够攻击（投射物需要时间回收）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_娜仁图亚.png",
+    "头像URL": "https://media.prts.wiki/b/ba/头像_娜仁图亚.png",
     "头像本地路径": "avatars/头像_娜仁图亚.png"
   },
   {
@@ -2713,7 +2713,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "优先攻击攻击范围内防御力最低的敌方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_子月.png",
+    "头像URL": "https://media.prts.wiki/d/db/头像_子月.png",
     "头像本地路径": "avatars/头像_子月.png"
   },
   {
@@ -2743,7 +2743,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_孑.png",
+    "头像URL": "https://media.prts.wiki/5/54/头像_孑.png",
     "头像本地路径": "avatars/头像_孑.png"
   },
   {
@@ -2773,7 +2773,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "优先攻击攻击范围内防御力最低的敌方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_守林人.png",
+    "头像URL": "https://media.prts.wiki/2/27/头像_守林人.png",
     "头像本地路径": "avatars/头像_守林人.png"
   },
   {
@@ -2804,7 +2804,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "优先攻击攻击范围内防御力最低的敌方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_安哲拉.png",
+    "头像URL": "https://media.prts.wiki/3/36/头像_安哲拉.png",
     "头像本地路径": "avatars/头像_安哲拉.png"
   },
   {
@@ -2833,7 +2833,7 @@
     ],
     "获取方式": "公开招募, 主线剧情",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_安德切尔.png",
+    "头像URL": "https://media.prts.wiki/f/f6/头像_安德切尔.png",
     "头像本地路径": "avatars/头像_安德切尔.png"
   },
   {
@@ -2863,7 +2863,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "优先攻击攻击范围内防御力最低的敌方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_安比尔.png",
+    "头像URL": "https://media.prts.wiki/f/ff/头像_安比尔.png",
     "头像本地路径": "avatars/头像_安比尔.png"
   },
   {
@@ -2894,7 +2894,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "攻击造成法术伤害，并对敌人造成短暂的停顿术语: 停顿移动速度降低80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_安洁莉娜.png",
+    "头像URL": "https://media.prts.wiki/c/ca/头像_安洁莉娜.png",
     "头像本地路径": "avatars/头像_安洁莉娜.png"
   },
   {
@@ -2923,7 +2923,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访, 主线剧情",
     "特性": "恢复友方单位生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_安赛尔.png",
+    "头像URL": "https://media.prts.wiki/9/94/头像_安赛尔.png",
     "头像本地路径": "avatars/头像_安赛尔.png"
   },
   {
@@ -2953,7 +2953,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_宴.png",
+    "头像URL": "https://media.prts.wiki/f/f4/头像_宴.png",
     "头像本地路径": "avatars/头像_宴.png"
   },
   {
@@ -2983,7 +2983,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_寒檀.png",
+    "头像URL": "https://media.prts.wiki/c/cd/头像_寒檀.png",
     "头像本地路径": "avatars/头像_寒檀.png"
   },
   {
@@ -3012,7 +3012,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_寒芒克洛丝.png",
+    "头像URL": "https://media.prts.wiki/3/39/头像_寒芒克洛丝.png",
     "头像本地路径": "avatars/头像_寒芒克洛丝.png"
   },
   {
@@ -3043,7 +3043,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "再部署时间减少，可使用远程攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_寻澜.png",
+    "头像URL": "https://media.prts.wiki/6/65/头像_寻澜.png",
     "头像本地路径": "avatars/头像_寻澜.png"
   },
   {
@@ -3073,7 +3073,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "同时攻击阻挡的所有敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_导火索.png",
+    "头像URL": "https://media.prts.wiki/7/70/头像_导火索.png",
     "头像本地路径": "avatars/头像_导火索.png"
   },
   {
@@ -3103,7 +3103,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，并对敌人造成短暂的停顿术语: 停顿移动速度降低80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_小满.png",
+    "头像URL": "https://media.prts.wiki/1/1d/头像_小满.png",
     "头像本地路径": "avatars/头像_小满.png"
   },
   {
@@ -3133,7 +3133,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_山.png",
+    "头像URL": "https://media.prts.wiki/e/ec/头像_山.png",
     "头像本地路径": "avatars/头像_山.png"
   },
   {
@@ -3164,7 +3164,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "技能可以使敌人产生位移可以放置于远程位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_崖心.png",
+    "头像URL": "https://media.prts.wiki/7/7d/头像_崖心.png",
     "头像本地路径": "avatars/头像_崖心.png"
   },
   {
@@ -3194,7 +3194,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_嵯峨.png",
+    "头像URL": "https://media.prts.wiki/6/6d/头像_嵯峨.png",
     "头像本地路径": "avatars/头像_嵯峨.png"
   },
   {
@@ -3223,7 +3223,7 @@
     ],
     "获取方式": "公开招募",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_巡林者.png",
+    "头像URL": "https://media.prts.wiki/9/93/头像_巡林者.png",
     "头像本地路径": "avatars/头像_巡林者.png"
   },
   {
@@ -3253,7 +3253,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_左乐.png",
+    "头像URL": "https://media.prts.wiki/e/e0/头像_左乐.png",
     "头像本地路径": "avatars/头像_左乐.png"
   },
   {
@@ -3282,7 +3282,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_巫恋.png",
+    "头像URL": "https://media.prts.wiki/3/36/头像_巫恋.png",
     "头像本地路径": "avatars/头像_巫恋.png"
   },
   {
@@ -3311,7 +3311,7 @@
     ],
     "获取方式": "凭证交易所(采购)",
     "特性": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿术语: 停顿移动速度降低80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_布丁.png",
+    "头像URL": "https://media.prts.wiki/b/b0/头像_布丁.png",
     "头像本地路径": "avatars/头像_布丁.png"
   },
   {
@@ -3341,7 +3341,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "同时攻击阻挡的所有敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_布洛卡.png",
+    "头像URL": "https://media.prts.wiki/0/04/头像_布洛卡.png",
     "头像本地路径": "avatars/头像_布洛卡.png"
   },
   {
@@ -3371,7 +3371,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_帕拉斯.png",
+    "头像URL": "https://media.prts.wiki/a/ad/头像_帕拉斯.png",
     "头像本地路径": "avatars/头像_帕拉斯.png"
   },
   {
@@ -3402,7 +3402,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "能够阻挡三个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_年.png",
+    "头像URL": "https://media.prts.wiki/9/9c/头像_年.png",
     "头像本地路径": "avatars/头像_年.png"
   },
   {
@@ -3433,7 +3433,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "同时攻击阻挡的所有敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_幽灵鲨.png",
+    "头像URL": "https://media.prts.wiki/2/28/头像_幽灵鲨.png",
     "头像本地路径": "avatars/头像_幽灵鲨.png"
   },
   {
@@ -3462,7 +3462,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿术语: 停顿移动速度降低80%(0.5s)",
-    "头像URL": "https://media.prts.wiki/thumb/头像_异客.png",
+    "头像URL": "https://media.prts.wiki/d/d2/头像_异客.png",
     "头像本地路径": "avatars/头像_异客.png"
   },
   {
@@ -3491,7 +3491,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "再部署时间大幅度减少",
-    "头像URL": "https://media.prts.wiki/thumb/头像_弑君者.png",
+    "头像URL": "https://media.prts.wiki/1/12/头像_弑君者.png",
     "头像本地路径": "avatars/头像_弑君者.png"
   },
   {
@@ -3522,7 +3522,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "可以投掷炼金单元协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_引星棘刺.png",
+    "头像URL": "https://media.prts.wiki/3/3b/头像_引星棘刺.png",
     "头像本地路径": "avatars/头像_引星棘刺.png"
   },
   {
@@ -3553,7 +3553,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20秒后自身再次替换<替身>",
-    "头像URL": "https://media.prts.wiki/thumb/头像_归溟幽灵鲨.png",
+    "头像URL": "https://media.prts.wiki/b/be/头像_归溟幽灵鲨.png",
     "头像本地路径": "avatars/头像_归溟幽灵鲨.png"
   },
   {
@@ -3582,7 +3582,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "恢复友方单位生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_录武官.png",
+    "头像URL": "https://media.prts.wiki/0/09/头像_录武官.png",
     "头像本地路径": "avatars/头像_录武官.png"
   },
   {
@@ -3612,7 +3612,7 @@
     ],
     "获取方式": "凭证交易所(采购)",
     "特性": "同时恢复三个友方单位的生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_微风.png",
+    "头像URL": "https://media.prts.wiki/a/ad/头像_微风.png",
     "头像本地路径": "avatars/头像_微风.png"
   },
   {
@@ -3643,7 +3643,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访, 常驻赠送",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_德克萨斯.png",
+    "头像URL": "https://media.prts.wiki/5/57/头像_德克萨斯.png",
     "头像本地路径": "avatars/头像_德克萨斯.png"
   },
   {
@@ -3673,7 +3673,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_忍冬.png",
+    "头像URL": "https://media.prts.wiki/7/79/头像_忍冬.png",
     "头像本地路径": "avatars/头像_忍冬.png"
   },
   {
@@ -3702,7 +3702,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿术语: 停顿移动速度降低80%(0.5s)",
-    "头像URL": "https://media.prts.wiki/thumb/头像_惊蛰.png",
+    "头像URL": "https://media.prts.wiki/8/81/头像_惊蛰.png",
     "头像本地路径": "avatars/头像_惊蛰.png"
   },
   {
@@ -3732,7 +3732,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成群体物理伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_慑砂.png",
+    "头像URL": "https://media.prts.wiki/e/e7/头像_慑砂.png",
     "头像本地路径": "avatars/头像_慑砂.png"
   },
   {
@@ -3761,7 +3761,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_慕斯.png",
+    "头像URL": "https://media.prts.wiki/f/fc/头像_慕斯.png",
     "头像本地路径": "avatars/头像_慕斯.png"
   },
   {
@@ -3791,7 +3791,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "普通攻击连续造成两次伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_战车.png",
+    "头像URL": "https://media.prts.wiki/c/cb/头像_战车.png",
     "头像本地路径": "avatars/头像_战车.png"
   },
   {
@@ -3821,7 +3821,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "攻击造成群体物理伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_截云.png",
+    "头像URL": "https://media.prts.wiki/8/81/头像_截云.png",
     "头像本地路径": "avatars/头像_截云.png"
   },
   {
@@ -3850,7 +3850,7 @@
     ],
     "获取方式": "主线剧情",
     "特性": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_戴菲恩.png",
+    "头像URL": "https://media.prts.wiki/2/28/头像_戴菲恩.png",
     "头像本地路径": "avatars/头像_戴菲恩.png"
   },
   {
@@ -3880,7 +3880,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_承曦格雷伊.png",
+    "头像URL": "https://media.prts.wiki/e/e2/头像_承曦格雷伊.png",
     "头像本地路径": "avatars/头像_承曦格雷伊.png"
   },
   {
@@ -3910,7 +3910,7 @@
     ],
     "获取方式": "凭证交易所(采购)",
     "特性": "攻击造成法术伤害，可以造成元素伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_折光.png",
+    "头像URL": "https://media.prts.wiki/c/c2/头像_折光.png",
     "头像本地路径": "avatars/头像_折光.png"
   },
   {
@@ -3940,7 +3940,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "无法被友方角色治疗",
-    "头像URL": "https://media.prts.wiki/thumb/头像_折桠.png",
+    "头像URL": "https://media.prts.wiki/a/a0/头像_折桠.png",
     "头像本地路径": "avatars/头像_折桠.png"
   },
   {
@@ -3970,7 +3970,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "可以进行远程攻击，但此时攻击力降低至80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_拉普兰德.png",
+    "头像URL": "https://media.prts.wiki/b/bf/头像_拉普兰德.png",
     "头像本地路径": "avatars/头像_拉普兰德.png"
   },
   {
@@ -3999,7 +3999,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "能够阻挡三个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_拜松.png",
+    "头像URL": "https://media.prts.wiki/b/b2/头像_拜松.png",
     "头像本地路径": "avatars/头像_拜松.png"
   },
   {
@@ -4029,7 +4029,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "能够阻挡两个敌人，使用<支援装置>协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_掠风.png",
+    "头像URL": "https://media.prts.wiki/5/5c/头像_掠风.png",
     "头像本地路径": "avatars/头像_掠风.png"
   },
   {
@@ -4060,7 +4060,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_推进之王.png",
+    "头像URL": "https://media.prts.wiki/b/ba/头像_推进之王.png",
     "头像本地路径": "avatars/头像_推进之王.png"
   },
   {
@@ -4089,7 +4089,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "优先攻击重量最重的敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_提丰.png",
+    "头像URL": "https://media.prts.wiki/7/70/头像_提丰.png",
     "头像本地路径": "avatars/头像_提丰.png"
   },
   {
@@ -4119,7 +4119,7 @@
     ],
     "获取方式": "主线剧情",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_摩根.png",
+    "头像URL": "https://media.prts.wiki/f/fe/头像_摩根.png",
     "头像本地路径": "avatars/头像_摩根.png"
   },
   {
@@ -4149,7 +4149,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "技能可以治疗友方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_斑点.png",
+    "头像URL": "https://media.prts.wiki/3/30/头像_斑点.png",
     "头像本地路径": "avatars/头像_斑点.png"
   },
   {
@@ -4179,7 +4179,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "无法被友方角色治疗",
-    "头像URL": "https://media.prts.wiki/thumb/头像_斥罪.png",
+    "头像URL": "https://media.prts.wiki/1/1c/头像_斥罪.png",
     "头像本地路径": "avatars/头像_斥罪.png"
   },
   {
@@ -4210,7 +4210,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "技能开启时普通攻击会造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_斩业星熊.png",
+    "头像URL": "https://media.prts.wiki/e/e5/头像_斩业星熊.png",
     "头像本地路径": "avatars/头像_斩业星熊.png"
   },
   {
@@ -4240,7 +4240,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "可以进行远程攻击，但此时攻击力降低至80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_断崖.png",
+    "头像URL": "https://media.prts.wiki/e/ea/头像_断崖.png",
     "头像本地路径": "avatars/头像_断崖.png"
   },
   {
@@ -4272,7 +4272,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_断罪者.png",
+    "头像URL": "https://media.prts.wiki/f/f2/头像_断罪者.png",
     "头像本地路径": "avatars/头像_断罪者.png"
   },
   {
@@ -4303,7 +4303,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_斯卡蒂.png",
+    "头像URL": "https://media.prts.wiki/5/53/头像_斯卡蒂.png",
     "头像本地路径": "avatars/头像_斯卡蒂.png"
   },
   {
@@ -4334,7 +4334,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "自身生命会不断流失",
-    "头像URL": "https://media.prts.wiki/thumb/头像_新约能天使.png",
+    "头像URL": "https://media.prts.wiki/3/3a/头像_新约能天使.png",
     "头像本地路径": "avatars/头像_新约能天使.png"
   },
   {
@@ -4364,7 +4364,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "优先攻击重量最重的敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_早露.png",
+    "头像URL": "https://media.prts.wiki/6/63/头像_早露.png",
     "头像本地路径": "avatars/头像_早露.png"
   },
   {
@@ -4393,7 +4393,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低25%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_明椒.png",
+    "头像URL": "https://media.prts.wiki/3/3f/头像_明椒.png",
     "头像本地路径": "avatars/头像_明椒.png"
   },
   {
@@ -4423,7 +4423,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_星极.png",
+    "头像URL": "https://media.prts.wiki/e/ee/头像_星极.png",
     "头像本地路径": "avatars/头像_星极.png"
   },
   {
@@ -4453,7 +4453,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "攻击造成法术伤害，且会在4个敌人间跳跃，每次跳跃伤害降低15%并造成短暂停顿术语: 停顿移动速度降低80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_星源.png",
+    "头像URL": "https://media.prts.wiki/4/48/头像_星源.png",
     "头像本地路径": "avatars/头像_星源.png"
   },
   {
@@ -4484,7 +4484,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "能够阻挡三个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_星熊.png",
+    "头像URL": "https://media.prts.wiki/0/07/头像_星熊.png",
     "头像本地路径": "avatars/头像_星熊.png"
   },
   {
@@ -4514,7 +4514,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "再部署时间减少，可使用远程攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_晓歌.png",
+    "头像URL": "https://media.prts.wiki/1/15/头像_晓歌.png",
     "头像本地路径": "avatars/头像_晓歌.png"
   },
   {
@@ -4543,7 +4543,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "高精度的近距离射击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_普罗旺斯.png",
+    "头像URL": "https://media.prts.wiki/7/72/头像_普罗旺斯.png",
     "头像本地路径": "avatars/头像_普罗旺斯.png"
   },
   {
@@ -4572,7 +4572,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "技能可以使敌人产生位移可以放置于远程位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_暗索.png",
+    "头像URL": "https://media.prts.wiki/d/dd/头像_暗索.png",
     "头像本地路径": "avatars/头像_暗索.png"
   },
   {
@@ -4602,7 +4602,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "技能开启时普通攻击会造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_暮落.png",
+    "头像URL": "https://media.prts.wiki/f/fb/头像_暮落.png",
     "头像本地路径": "avatars/头像_暮落.png"
   },
   {
@@ -4632,7 +4632,7 @@
     ],
     "获取方式": "预约奖励, 周年奖励",
     "特性": "同时攻击阻挡的所有敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_暴行.png",
+    "头像URL": "https://media.prts.wiki/3/36/头像_暴行.png",
     "头像本地路径": "avatars/头像_暴行.png"
   },
   {
@@ -4662,7 +4662,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "能够阻挡三个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_暴雨.png",
+    "头像URL": "https://media.prts.wiki/f/f8/头像_暴雨.png",
     "头像本地路径": "avatars/头像_暴雨.png"
   },
   {
@@ -4692,7 +4692,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_月禾.png",
+    "头像URL": "https://media.prts.wiki/b/b6/头像_月禾.png",
     "头像本地路径": "avatars/头像_月禾.png"
   },
   {
@@ -4721,7 +4721,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "可以进行远程攻击，但此时攻击力降低至80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_月见夜.png",
+    "头像URL": "https://media.prts.wiki/b/b7/头像_月见夜.png",
     "头像本地路径": "avatars/头像_月见夜.png"
   },
   {
@@ -4750,7 +4750,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "恢复友方单位生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_末药.png",
+    "头像URL": "https://media.prts.wiki/d/d9/头像_末药.png",
     "头像本地路径": "avatars/头像_末药.png"
   },
   {
@@ -4780,7 +4780,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "技能可以使敌人产生位移可以放置于远程位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_杏仁.png",
+    "头像URL": "https://media.prts.wiki/2/2e/头像_杏仁.png",
     "头像本地路径": "avatars/头像_杏仁.png"
   },
   {
@@ -4810,7 +4810,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_杜宾.png",
+    "头像URL": "https://media.prts.wiki/a/a1/头像_杜宾.png",
     "头像本地路径": "avatars/头像_杜宾.png"
   },
   {
@@ -4839,7 +4839,7 @@
     ],
     "获取方式": "公开招募, 主线剧情",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_杜林.png",
+    "头像URL": "https://media.prts.wiki/2/24/头像_杜林.png",
     "头像本地路径": "avatars/头像_杜林.png"
   },
   {
@@ -4868,7 +4868,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_杰克.png",
+    "头像URL": "https://media.prts.wiki/d/d8/头像_杰克.png",
     "头像本地路径": "avatars/头像_杰克.png"
   },
   {
@@ -4899,7 +4899,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访, 主线剧情",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_杰西卡.png",
+    "头像URL": "https://media.prts.wiki/6/63/头像_杰西卡.png",
     "头像本地路径": "avatars/头像_杰西卡.png"
   },
   {
@@ -4929,7 +4929,7 @@
     ],
     "获取方式": "标准寻访, 中坚寻访, 公开招募",
     "特性": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_松果.png",
+    "头像URL": "https://media.prts.wiki/5/5e/头像_松果.png",
     "头像本地路径": "avatars/头像_松果.png"
   },
   {
@@ -4959,7 +4959,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "能够阻挡两个敌人，可以支援待部署区的我方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_松桐.png",
+    "头像URL": "https://media.prts.wiki/5/56/头像_松桐.png",
     "头像本地路径": "avatars/头像_松桐.png"
   },
   {
@@ -4990,7 +4990,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "只有阻挡敌人时才能够回复技力",
-    "头像URL": "https://media.prts.wiki/thumb/头像_极光.png",
+    "头像URL": "https://media.prts.wiki/4/43/头像_极光.png",
     "头像本地路径": "avatars/头像_极光.png"
   },
   {
@@ -5020,7 +5020,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "技能发动期间阻挡数变为0",
-    "头像URL": "https://media.prts.wiki/thumb/头像_极境.png",
+    "头像URL": "https://media.prts.wiki/9/97/头像_极境.png",
     "头像本地路径": "avatars/头像_极境.png"
   },
   {
@@ -5050,7 +5050,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_林.png",
+    "头像URL": "https://media.prts.wiki/a/aa/头像_林.png",
     "头像本地路径": "avatars/头像_林.png"
   },
   {
@@ -5080,7 +5080,7 @@
     ],
     "获取方式": "活动获得, 凭证交易所(高级/通用)",
     "特性": "普通攻击连续造成两次伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_柏喙.png",
+    "头像URL": "https://media.prts.wiki/2/2f/头像_柏喙.png",
     "头像本地路径": "avatars/头像_柏喙.png"
   },
   {
@@ -5110,7 +5110,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害，并对敌人造成短暂的停顿术语: 停顿移动速度降低80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_格劳克斯.png",
+    "头像URL": "https://media.prts.wiki/5/53/头像_格劳克斯.png",
     "头像本地路径": "avatars/头像_格劳克斯.png"
   },
   {
@@ -5140,7 +5140,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
-    "头像URL": "https://media.prts.wiki/thumb/头像_格拉尼.png",
+    "头像URL": "https://media.prts.wiki/2/29/头像_格拉尼.png",
     "头像本地路径": "avatars/头像_格拉尼.png"
   },
   {
@@ -5170,7 +5170,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_格雷伊.png",
+    "头像URL": "https://media.prts.wiki/f/fe/头像_格雷伊.png",
     "头像本地路径": "avatars/头像_格雷伊.png"
   },
   {
@@ -5200,7 +5200,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "技能发动期间阻挡数变为0",
-    "头像URL": "https://media.prts.wiki/thumb/头像_桃金娘.png",
+    "头像URL": "https://media.prts.wiki/9/9d/头像_桃金娘.png",
     "头像本地路径": "avatars/头像_桃金娘.png"
   },
   {
@@ -5229,7 +5229,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤术语: 元素损伤包括神经损伤、侵蚀损伤、灼燃损伤、凋亡损伤※最大元素值默认为1000，受到附加元素损伤的伤害时先结算伤害后结算元素损伤（可以回复未受伤友方单位的元素损伤术语: 元素损伤包括神经损伤、侵蚀损伤、灼燃损伤、凋亡损伤※最大元素值默认为1000，受到附加元素损伤的伤害时先结算伤害后结算元素损伤）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_桑葚.png",
+    "头像URL": "https://media.prts.wiki/0/0f/头像_桑葚.png",
     "头像本地路径": "avatars/头像_桑葚.png"
   },
   {
@@ -5259,7 +5259,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_梅.png",
+    "头像URL": "https://media.prts.wiki/a/ac/头像_梅.png",
     "头像本地路径": "avatars/头像_梅.png"
   },
   {
@@ -5290,7 +5290,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害可以使用召唤物协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_梅尔.png",
+    "头像URL": "https://media.prts.wiki/0/07/头像_梅尔.png",
     "头像本地路径": "avatars/头像_梅尔.png"
   },
   {
@@ -5319,7 +5319,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访, 主线剧情",
     "特性": "攻击造成法术伤害，并对敌人造成短暂的停顿术语: 停顿移动速度降低80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_梓兰.png",
+    "头像URL": "https://media.prts.wiki/8/83/头像_梓兰.png",
     "头像本地路径": "avatars/头像_梓兰.png"
   },
   {
@@ -5349,7 +5349,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "可以进行远程攻击，但此时攻击力降低至80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_棘刺.png",
+    "头像URL": "https://media.prts.wiki/2/2a/头像_棘刺.png",
     "头像本地路径": "avatars/头像_棘刺.png"
   },
   {
@@ -5380,7 +5380,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "只有阻挡敌人时才能够回复技力",
-    "头像URL": "https://media.prts.wiki/thumb/头像_森蚺.png",
+    "头像URL": "https://media.prts.wiki/7/74/头像_森蚺.png",
     "头像本地路径": "avatars/头像_森蚺.png"
   },
   {
@@ -5410,7 +5410,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "技能可以治疗友方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_森西.png",
+    "头像URL": "https://media.prts.wiki/e/e7/头像_森西.png",
     "头像本地路径": "avatars/头像_森西.png"
   },
   {
@@ -5440,7 +5440,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "再部署时间大幅度减少",
-    "头像URL": "https://media.prts.wiki/thumb/头像_槐琥.png",
+    "头像URL": "https://media.prts.wiki/e/ed/头像_槐琥.png",
     "头像本地路径": "avatars/头像_槐琥.png"
   },
   {
@@ -5472,7 +5472,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "技能可以使敌人产生位移可以放置于远程位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_歌蕾蒂娅.png",
+    "头像URL": "https://media.prts.wiki/0/0d/头像_歌蕾蒂娅.png",
     "头像本地路径": "avatars/头像_歌蕾蒂娅.png"
   },
   {
@@ -5501,7 +5501,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_止颂.png",
+    "头像URL": "https://media.prts.wiki/7/72/头像_止颂.png",
     "头像本地路径": "avatars/头像_止颂.png"
   },
   {
@@ -5530,7 +5530,7 @@
     ],
     "获取方式": "公开招募, 活动获得",
     "特性": "优先攻击空中单位，且不受部署数量限制，但再部署时间极长",
-    "头像URL": "https://media.prts.wiki/thumb/头像_正义骑士号.png",
+    "头像URL": "https://media.prts.wiki/c/c5/头像_正义骑士号.png",
     "头像本地路径": "avatars/头像_正义骑士号.png"
   },
   {
@@ -5561,7 +5561,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_死芒.png",
+    "头像URL": "https://media.prts.wiki/d/d9/头像_死芒.png",
     "头像本地路径": "avatars/头像_死芒.png"
   },
   {
@@ -5591,7 +5591,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "对攻击范围内所有敌人造成伤害拥有50%的物理和法术闪避且不容易成为敌人的攻击目标",
-    "头像URL": "https://media.prts.wiki/thumb/头像_水月.png",
+    "头像URL": "https://media.prts.wiki/0/05/头像_水月.png",
     "头像本地路径": "avatars/头像_水月.png"
   },
   {
@@ -5621,7 +5621,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "持有回旋投射物时才能够攻击（投射物需要时间回收）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_水灯心.png",
+    "头像URL": "https://media.prts.wiki/3/3b/头像_水灯心.png",
     "头像本地路径": "avatars/头像_水灯心.png"
   },
   {
@@ -5651,7 +5651,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "同时攻击阻挡的所有敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_泡普卡.png",
+    "头像URL": "https://media.prts.wiki/1/16/头像_泡普卡.png",
     "头像本地路径": "avatars/头像_泡普卡.png"
   },
   {
@@ -5680,7 +5680,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "能够阻挡三个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_泡泡.png",
+    "头像URL": "https://media.prts.wiki/2/28/头像_泡泡.png",
     "头像本地路径": "avatars/头像_泡泡.png"
   },
   {
@@ -5709,7 +5709,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，可以造成元素损伤",
-    "头像URL": "https://media.prts.wiki/thumb/头像_波卜.png",
+    "头像URL": "https://media.prts.wiki/d/d5/头像_波卜.png",
     "头像本地路径": "avatars/头像_波卜.png"
   },
   {
@@ -5739,7 +5739,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "攻击造成法术伤害，并对敌人造成短暂的停顿术语: 停顿移动速度降低80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_波登可.png",
+    "头像URL": "https://media.prts.wiki/4/43/头像_波登可.png",
     "头像本地路径": "avatars/头像_波登可.png"
   },
   {
@@ -5770,7 +5770,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "无法被友方角色治疗",
-    "头像URL": "https://media.prts.wiki/thumb/头像_泥岩.png",
+    "头像URL": "https://media.prts.wiki/0/06/头像_泥岩.png",
     "头像本地路径": "avatars/头像_泥岩.png"
   },
   {
@@ -5799,7 +5799,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半），且不受部署数量限制，但再部署时间极长",
-    "头像URL": "https://media.prts.wiki/thumb/头像_泰拉大陆调查团.png",
+    "头像URL": "https://media.prts.wiki/7/70/头像_泰拉大陆调查团.png",
     "头像本地路径": "avatars/头像_泰拉大陆调查团.png"
   },
   {
@@ -5828,7 +5828,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "只有阻挡敌人时才能够回复技力",
-    "头像URL": "https://media.prts.wiki/thumb/头像_洋灰.png",
+    "头像URL": "https://media.prts.wiki/e/e8/头像_洋灰.png",
     "头像本地路径": "avatars/头像_洋灰.png"
   },
   {
@@ -5857,7 +5857,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "操作浮游单元造成法术伤害单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_洛洛.png",
+    "头像URL": "https://media.prts.wiki/d/d4/头像_洛洛.png",
     "头像本地路径": "avatars/头像_洛洛.png"
   },
   {
@@ -5887,7 +5887,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_流明.png",
+    "头像URL": "https://media.prts.wiki/7/72/头像_流明.png",
     "头像本地路径": "avatars/头像_流明.png"
   },
   {
@@ -5917,7 +5917,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_流星.png",
+    "头像URL": "https://media.prts.wiki/1/14/头像_流星.png",
     "头像本地路径": "avatars/头像_流星.png"
   },
   {
@@ -5948,7 +5948,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞术语: 鼓舞获得额外附加的基础属性加成（同类属性取最高）※给予他人鼓舞效果的角色会将自身的鼓舞BUFF重写后适用于受益者（先最终乘算计算加成数值后，重写为最终加算，再将鼓舞赋予受益者）※同类效果取倍率最高（非最终数值）生效影响",
-    "头像URL": "https://media.prts.wiki/thumb/头像_浊心斯卡蒂.png",
+    "头像URL": "https://media.prts.wiki/8/80/头像_浊心斯卡蒂.png",
     "头像本地路径": "avatars/头像_浊心斯卡蒂.png"
   },
   {
@@ -5977,7 +5977,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "无法被友方角色治疗，攻击造成群体伤害，每攻击到一个敌人回复自身50生命，最大生效数等于阻挡数",
-    "头像URL": "https://media.prts.wiki/thumb/头像_海沫.png",
+    "头像URL": "https://media.prts.wiki/6/6c/头像_海沫.png",
     "头像本地路径": "avatars/头像_海沫.png"
   },
   {
@@ -6007,7 +6007,7 @@
     ],
     "获取方式": "主线剧情",
     "特性": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞术语: 鼓舞获得额外附加的基础属性加成（同类属性取最高）※给予他人鼓舞效果的角色会将自身的鼓舞BUFF重写后适用于受益者（先最终乘算计算加成数值后，重写为最终加算，再将鼓舞赋予受益者）※同类效果取倍率最高（非最终数值）生效影响",
-    "头像URL": "https://media.prts.wiki/thumb/头像_海蒂.png",
+    "头像URL": "https://media.prts.wiki/d/d9/头像_海蒂.png",
     "头像本地路径": "avatars/头像_海蒂.png"
   },
   {
@@ -6036,7 +6036,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_海霓.png",
+    "头像URL": "https://media.prts.wiki/7/72/头像_海霓.png",
     "头像本地路径": "avatars/头像_海霓.png"
   },
   {
@@ -6068,7 +6068,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "能够阻挡三个敌人，可以进行远程攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_涤火杰西卡.png",
+    "头像URL": "https://media.prts.wiki/1/14/头像_涤火杰西卡.png",
     "头像本地路径": "avatars/头像_涤火杰西卡.png"
   },
   {
@@ -6100,7 +6100,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_淬羽赫默.png",
+    "头像URL": "https://media.prts.wiki/0/0d/头像_淬羽赫默.png",
     "头像本地路径": "avatars/头像_淬羽赫默.png"
   },
   {
@@ -6131,7 +6131,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "能够阻挡三个敌人，可以进行远程攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_深巡.png",
+    "头像URL": "https://media.prts.wiki/b/bd/头像_深巡.png",
     "头像本地路径": "avatars/头像_深巡.png"
   },
   {
@@ -6161,7 +6161,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "技能可以治疗友方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_深律.png",
+    "头像URL": "https://media.prts.wiki/d/d8/头像_深律.png",
     "头像本地路径": "avatars/头像_深律.png"
   },
   {
@@ -6190,7 +6190,7 @@
     ],
     "获取方式": "标准寻访, 中坚寻访",
     "特性": "攻击造成法术伤害可以使用召唤物协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_深海色.png",
+    "头像URL": "https://media.prts.wiki/d/d1/头像_深海色.png",
     "头像本地路径": "avatars/头像_深海色.png"
   },
   {
@@ -6220,7 +6220,7 @@
     ],
     "获取方式": "标准寻访, 中坚寻访",
     "特性": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_深靛.png",
+    "头像URL": "https://media.prts.wiki/9/92/头像_深靛.png",
     "头像本地路径": "avatars/头像_深靛.png"
   },
   {
@@ -6250,7 +6250,7 @@
     ],
     "获取方式": "限时礼包, 公开招募",
     "特性": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_清流.png",
+    "头像URL": "https://media.prts.wiki/1/19/头像_清流.png",
     "头像本地路径": "avatars/头像_清流.png"
   },
   {
@@ -6281,7 +6281,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_清道夫.png",
+    "头像URL": "https://media.prts.wiki/6/63/头像_清道夫.png",
     "头像本地路径": "avatars/头像_清道夫.png"
   },
   {
@@ -6311,7 +6311,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_渡桥.png",
+    "头像URL": "https://media.prts.wiki/f/fd/头像_渡桥.png",
     "头像本地路径": "avatars/头像_渡桥.png"
   },
   {
@@ -6341,7 +6341,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，可以造成元素伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_温米.png",
+    "头像URL": "https://media.prts.wiki/3/3f/头像_温米.png",
     "头像本地路径": "avatars/头像_温米.png"
   },
   {
@@ -6372,7 +6372,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "同时攻击阻挡的所有敌人可以放置于远程位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_温蒂.png",
+    "头像URL": "https://media.prts.wiki/9/93/头像_温蒂.png",
     "头像本地路径": "avatars/头像_温蒂.png"
   },
   {
@@ -6404,7 +6404,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "攻击造成法术伤害，并对敌人造成短暂的停顿术语: 停顿移动速度降低80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_溯光星源.png",
+    "头像URL": "https://media.prts.wiki/d/d0/头像_溯光星源.png",
     "头像本地路径": "avatars/头像_溯光星源.png"
   },
   {
@@ -6433,7 +6433,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "操作浮游单元造成法术伤害单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_澄闪.png",
+    "头像URL": "https://media.prts.wiki/a/ab/头像_澄闪.png",
     "头像本地路径": "avatars/头像_澄闪.png"
   },
   {
@@ -6462,7 +6462,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于50%伤害的生命值",
-    "头像URL": "https://media.prts.wiki/thumb/头像_濯尘芙蓉.png",
+    "头像URL": "https://media.prts.wiki/8/8d/头像_濯尘芙蓉.png",
     "头像本地路径": "avatars/头像_濯尘芙蓉.png"
   },
   {
@@ -6492,7 +6492,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "不阻挡敌人时优先远程群体物理攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_火哨.png",
+    "头像URL": "https://media.prts.wiki/f/fa/头像_火哨.png",
     "头像本地路径": "avatars/头像_火哨.png"
   },
   {
@@ -6523,7 +6523,7 @@
     ],
     "获取方式": "公开招募",
     "特性": "无法被友方角色治疗",
-    "头像URL": "https://media.prts.wiki/thumb/头像_火神.png",
+    "头像URL": "https://media.prts.wiki/f/f1/头像_火神.png",
     "头像本地路径": "avatars/头像_火神.png"
   },
   {
@@ -6553,7 +6553,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_火龙S黑角.png",
+    "头像URL": "https://media.prts.wiki/8/81/头像_火龙S黑角.png",
     "头像本地路径": "avatars/头像_火龙S黑角.png"
   },
   {
@@ -6582,7 +6582,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_灰喉.png",
+    "头像URL": "https://media.prts.wiki/3/3b/头像_灰喉.png",
     "头像本地路径": "avatars/头像_灰喉.png"
   },
   {
@@ -6613,7 +6613,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "不阻挡敌人时优先远程群体物理攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_灰毫.png",
+    "头像URL": "https://media.prts.wiki/2/21/头像_灰毫.png",
     "头像本地路径": "avatars/头像_灰毫.png"
   },
   {
@@ -6642,7 +6642,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_灰烬.png",
+    "头像URL": "https://media.prts.wiki/6/64/头像_灰烬.png",
     "头像本地路径": "avatars/头像_灰烬.png"
   },
   {
@@ -6672,7 +6672,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_灵知.png",
+    "头像URL": "https://media.prts.wiki/9/9f/头像_灵知.png",
     "头像本地路径": "avatars/头像_灵知.png"
   },
   {
@@ -6702,7 +6702,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_炎客.png",
+    "头像URL": "https://media.prts.wiki/d/d6/头像_炎客.png",
     "头像本地路径": "avatars/头像_炎客.png"
   },
   {
@@ -6731,7 +6731,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访, 主线剧情",
     "特性": "攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_炎熔.png",
+    "头像URL": "https://media.prts.wiki/f/fb/头像_炎熔.png",
     "头像本地路径": "avatars/头像_炎熔.png"
   },
   {
@@ -6760,7 +6760,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_炎狱炎熔.png",
+    "头像URL": "https://media.prts.wiki/2/20/头像_炎狱炎熔.png",
     "头像本地路径": "avatars/头像_炎狱炎熔.png"
   },
   {
@@ -6790,7 +6790,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "可以进行远程攻击，但此时攻击力降低至80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_烈夏.png",
+    "头像URL": "https://media.prts.wiki/6/65/头像_烈夏.png",
     "头像本地路径": "avatars/头像_烈夏.png"
   },
   {
@@ -6822,7 +6822,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，可以造成元素伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_烛煌.png",
+    "头像URL": "https://media.prts.wiki/c/c4/头像_烛煌.png",
     "头像本地路径": "avatars/头像_烛煌.png"
   },
   {
@@ -6853,7 +6853,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_焰尾.png",
+    "头像URL": "https://media.prts.wiki/c/c8/头像_焰尾.png",
     "头像本地路径": "avatars/头像_焰尾.png"
   },
   {
@@ -6885,7 +6885,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于50%伤害的生命值",
-    "头像URL": "https://media.prts.wiki/thumb/头像_焰影苇草.png",
+    "头像URL": "https://media.prts.wiki/9/94/头像_焰影苇草.png",
     "头像本地路径": "avatars/头像_焰影苇草.png"
   },
   {
@@ -6916,7 +6916,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "同时攻击阻挡的所有敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_煌.png",
+    "头像URL": "https://media.prts.wiki/3/30/头像_煌.png",
     "头像本地路径": "avatars/头像_煌.png"
   },
   {
@@ -6945,7 +6945,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "优先攻击重量最重的敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_熔泉.png",
+    "头像URL": "https://media.prts.wiki/3/34/头像_熔泉.png",
     "头像本地路径": "avatars/头像_熔泉.png"
   },
   {
@@ -6974,7 +6974,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_燧石.png",
+    "头像URL": "https://media.prts.wiki/a/ac/头像_燧石.png",
     "头像本地路径": "avatars/头像_燧石.png"
   },
   {
@@ -7003,7 +7003,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_爱丽丝.png",
+    "头像URL": "https://media.prts.wiki/9/9a/头像_爱丽丝.png",
     "头像本地路径": "avatars/头像_爱丽丝.png"
   },
   {
@@ -7032,7 +7032,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，可以通过击倒敌人生成召唤物，可攻击到自身召唤物阻挡的敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_特克诺.png",
+    "头像URL": "https://media.prts.wiki/2/2e/头像_特克诺.png",
     "头像本地路径": "avatars/头像_特克诺.png"
   },
   {
@@ -7062,7 +7062,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_特米米.png",
+    "头像URL": "https://media.prts.wiki/b/b9/头像_特米米.png",
     "头像本地路径": "avatars/头像_特米米.png"
   },
   {
@@ -7092,7 +7092,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "对攻击范围内所有敌人造成伤害拥有50%的物理和法术闪避且不容易成为敌人的攻击目标",
-    "头像URL": "https://media.prts.wiki/thumb/头像_狮蝎.png",
+    "头像URL": "https://media.prts.wiki/c/c5/头像_狮蝎.png",
     "头像本地路径": "avatars/头像_狮蝎.png"
   },
   {
@@ -7121,7 +7121,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_猎蜂.png",
+    "头像URL": "https://media.prts.wiki/c/c2/头像_猎蜂.png",
     "头像本地路径": "avatars/头像_猎蜂.png"
   },
   {
@@ -7151,7 +7151,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "通常不攻击且阻挡数为0，技能未开启时40秒内攻击力逐渐提升至最高+200%且技能结束时重置攻击力",
-    "头像URL": "https://media.prts.wiki/thumb/头像_玛恩纳.png",
+    "头像URL": "https://media.prts.wiki/0/08/头像_玛恩纳.png",
     "头像本地路径": "avatars/头像_玛恩纳.png"
   },
   {
@@ -7182,7 +7182,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_玛露西尔.png",
+    "头像URL": "https://media.prts.wiki/8/84/头像_玛露西尔.png",
     "头像本地路径": "avatars/头像_玛露西尔.png"
   },
   {
@@ -7212,7 +7212,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访, 主线剧情",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_玫兰莎.png",
+    "头像URL": "https://media.prts.wiki/4/4b/头像_玫兰莎.png",
     "头像本地路径": "avatars/头像_玫兰莎.png"
   },
   {
@@ -7242,7 +7242,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "高精度的近距离射击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_玫拉.png",
+    "头像URL": "https://media.prts.wiki/a/ab/头像_玫拉.png",
     "头像本地路径": "avatars/头像_玫拉.png"
   },
   {
@@ -7272,7 +7272,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_琳琅诗怀雅.png",
+    "头像URL": "https://media.prts.wiki/7/74/头像_琳琅诗怀雅.png",
     "头像本地路径": "avatars/头像_琳琅诗怀雅.png"
   },
   {
@@ -7302,7 +7302,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "技能发动期间阻挡数变为0",
-    "头像URL": "https://media.prts.wiki/thumb/头像_琴柳.png",
+    "头像URL": "https://media.prts.wiki/9/96/头像_琴柳.png",
     "头像本地路径": "avatars/头像_琴柳.png"
   },
   {
@@ -7333,7 +7333,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "技能可以治疗友方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_瑕光.png",
+    "头像URL": "https://media.prts.wiki/f/f7/头像_瑕光.png",
     "头像本地路径": "avatars/头像_瑕光.png"
   },
   {
@@ -7363,7 +7363,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "同时恢复三个友方单位的生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_瑰盐.png",
+    "头像URL": "https://media.prts.wiki/8/8a/头像_瑰盐.png",
     "头像本地路径": "avatars/头像_瑰盐.png"
   },
   {
@@ -7395,7 +7395,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "攻击造成法术伤害可以使用召唤物协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_电弧.png",
+    "头像URL": "https://media.prts.wiki/5/56/头像_电弧.png",
     "头像本地路径": "avatars/头像_电弧.png"
   },
   {
@@ -7424,7 +7424,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_白金.png",
+    "头像URL": "https://media.prts.wiki/3/3b/头像_白金.png",
     "头像本地路径": "avatars/头像_白金.png"
   },
   {
@@ -7454,7 +7454,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "能够阻挡两个敌人，使用<支援装置>协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_白铁.png",
+    "头像URL": "https://media.prts.wiki/2/2e/头像_白铁.png",
     "头像本地路径": "avatars/头像_白铁.png"
   },
   {
@@ -7484,7 +7484,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "攻击造成群体物理伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_白雪.png",
+    "头像URL": "https://media.prts.wiki/b/b4/头像_白雪.png",
     "头像本地路径": "avatars/头像_白雪.png"
   },
   {
@@ -7515,7 +7515,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "同时恢复三个友方单位的生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_白面鸮.png",
+    "头像URL": "https://media.prts.wiki/8/83/头像_白面鸮.png",
     "头像本地路径": "avatars/头像_白面鸮.png"
   },
   {
@@ -7546,7 +7546,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "同时攻击阻挡的所有敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_百炼嘉维尔.png",
+    "头像URL": "https://media.prts.wiki/1/1b/头像_百炼嘉维尔.png",
     "头像本地路径": "avatars/头像_百炼嘉维尔.png"
   },
   {
@@ -7576,7 +7576,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害，并对敌人造成短暂的停顿术语: 停顿移动速度降低80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_真理.png",
+    "头像URL": "https://media.prts.wiki/e/e6/头像_真理.png",
     "头像本地路径": "avatars/头像_真理.png"
   },
   {
@@ -7608,7 +7608,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，可以造成元素伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_真言.png",
+    "头像URL": "https://media.prts.wiki/6/63/头像_真言.png",
     "头像本地路径": "avatars/头像_真言.png"
   },
   {
@@ -7638,7 +7638,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "技能开启时普通攻击会造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_石棉.png",
+    "头像URL": "https://media.prts.wiki/1/18/头像_石棉.png",
     "头像本地路径": "avatars/头像_石棉.png"
   },
   {
@@ -7667,7 +7667,7 @@
     ],
     "获取方式": "凭证交易所(采购)",
     "特性": "同时攻击阻挡的所有敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_石英.png",
+    "头像URL": "https://media.prts.wiki/b/bc/头像_石英.png",
     "头像本地路径": "avatars/头像_石英.png"
   },
   {
@@ -7697,7 +7697,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "再部署时间大幅度减少",
-    "头像URL": "https://media.prts.wiki/thumb/头像_砾.png",
+    "头像URL": "https://media.prts.wiki/c/ce/头像_砾.png",
     "头像本地路径": "avatars/头像_砾.png"
   },
   {
@@ -7728,7 +7728,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "攻击使目标周围的其他敌人受到相当于攻击力50%的群体物理伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_祐天寺若麦.png",
+    "头像URL": "https://media.prts.wiki/d/df/头像_祐天寺若麦.png",
     "头像本地路径": "avatars/头像_祐天寺若麦.png"
   },
   {
@@ -7758,7 +7758,7 @@
     ],
     "获取方式": "活动获得, 凭证交易所(高级/通用)",
     "特性": "攻击造成法术伤害可以使用召唤物协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_稀音.png",
+    "头像URL": "https://media.prts.wiki/c/c6/头像_稀音.png",
     "头像本地路径": "avatars/头像_稀音.png"
   },
   {
@@ -7789,7 +7789,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞术语: 鼓舞获得额外附加的基础属性加成（同类属性取最高）※给予他人鼓舞效果的角色会将自身的鼓舞BUFF重写后适用于受益者（先最终乘算计算加成数值后，重写为最终加算，再将鼓舞赋予受益者）※同类效果取倍率最高（非最终数值）生效影响",
-    "头像URL": "https://media.prts.wiki/thumb/头像_空.png",
+    "头像URL": "https://media.prts.wiki/5/58/头像_空.png",
     "头像本地路径": "avatars/头像_空.png"
   },
   {
@@ -7818,7 +7818,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_空弦.png",
+    "头像URL": "https://media.prts.wiki/b/bb/头像_空弦.png",
     "头像本地路径": "avatars/头像_空弦.png"
   },
   {
@@ -7848,7 +7848,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "自身生命会不断流失",
-    "头像URL": "https://media.prts.wiki/thumb/头像_空构.png",
+    "头像URL": "https://media.prts.wiki/d/d1/头像_空构.png",
     "头像本地路径": "avatars/头像_空构.png"
   },
   {
@@ -7877,7 +7877,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "攻击造成群体物理伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_空爆.png",
+    "头像URL": "https://media.prts.wiki/c/cd/头像_空爆.png",
     "头像本地路径": "avatars/头像_空爆.png"
   },
   {
@@ -7906,7 +7906,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访, 主线剧情",
     "特性": "能够阻挡三个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_米格鲁.png",
+    "头像URL": "https://media.prts.wiki/3/32/头像_米格鲁.png",
     "头像本地路径": "avatars/头像_米格鲁.png"
   },
   {
@@ -7935,7 +7935,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_絮雨.png",
+    "头像URL": "https://media.prts.wiki/3/34/头像_絮雨.png",
     "头像本地路径": "avatars/头像_絮雨.png"
   },
   {
@@ -7966,7 +7966,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "再部署时间大幅度减少",
-    "头像URL": "https://media.prts.wiki/thumb/头像_红.png",
+    "头像URL": "https://media.prts.wiki/a/ac/头像_红.png",
     "头像本地路径": "avatars/头像_红.png"
   },
   {
@@ -7995,7 +7995,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_红云.png",
+    "头像URL": "https://media.prts.wiki/a/af/头像_红云.png",
     "头像本地路径": "avatars/头像_红云.png"
   },
   {
@@ -8025,7 +8025,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
-    "头像URL": "https://media.prts.wiki/thumb/头像_红豆.png",
+    "头像URL": "https://media.prts.wiki/b/bb/头像_红豆.png",
     "头像本地路径": "avatars/头像_红豆.png"
   },
   {
@@ -8055,7 +8055,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_红隼.png",
+    "头像URL": "https://media.prts.wiki/4/45/头像_红隼.png",
     "头像本地路径": "avatars/头像_红隼.png"
   },
   {
@@ -8084,7 +8084,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤术语: 元素损伤包括神经损伤、侵蚀损伤、灼燃损伤、凋亡损伤※最大元素值默认为1000，受到附加元素损伤的伤害时先结算伤害后结算元素损伤（可以回复未受伤友方单位的元素损伤术语: 元素损伤包括神经损伤、侵蚀损伤、灼燃损伤、凋亡损伤※最大元素值默认为1000，受到附加元素损伤的伤害时先结算伤害后结算元素损伤）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_纯烬艾雅法拉.png",
+    "头像URL": "https://media.prts.wiki/f/f0/头像_纯烬艾雅法拉.png",
     "头像本地路径": "avatars/头像_纯烬艾雅法拉.png"
   },
   {
@@ -8114,7 +8114,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "对攻击范围内所有敌人造成伤害拥有50%的物理和法术闪避且不容易成为敌人的攻击目标",
-    "头像URL": "https://media.prts.wiki/thumb/头像_绮良.png",
+    "头像URL": "https://media.prts.wiki/a/a8/头像_绮良.png",
     "头像本地路径": "avatars/头像_绮良.png"
   },
   {
@@ -8144,7 +8144,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_维什戴尔.png",
+    "头像URL": "https://media.prts.wiki/6/66/头像_维什戴尔.png",
     "头像本地路径": "avatars/头像_维什戴尔.png"
   },
   {
@@ -8174,7 +8174,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_维娜·维多利亚.png",
+    "头像URL": "https://media.prts.wiki/6/68/头像_维娜·维多利亚.png",
     "头像本地路径": "avatars/头像_维娜·维多利亚.png"
   },
   {
@@ -8204,7 +8204,7 @@
     ],
     "获取方式": "标准寻访, 中坚寻访",
     "特性": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20秒后自身再次替换<替身>",
-    "头像URL": "https://media.prts.wiki/thumb/头像_维荻.png",
+    "头像URL": "https://media.prts.wiki/9/97/头像_维荻.png",
     "头像本地路径": "avatars/头像_维荻.png"
   },
   {
@@ -8235,7 +8235,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "再部署时间大幅度减少",
-    "头像URL": "https://media.prts.wiki/thumb/头像_缄默德克萨斯.png",
+    "头像URL": "https://media.prts.wiki/b/b8/头像_缄默德克萨斯.png",
     "头像本地路径": "avatars/头像_缄默德克萨斯.png"
   },
   {
@@ -8265,7 +8265,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_缠丸.png",
+    "头像URL": "https://media.prts.wiki/1/13/头像_缠丸.png",
     "头像本地路径": "avatars/头像_缠丸.png"
   },
   {
@@ -8296,7 +8296,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_缪尔赛思.png",
+    "头像URL": "https://media.prts.wiki/3/3a/头像_缪尔赛思.png",
     "头像本地路径": "avatars/头像_缪尔赛思.png"
   },
   {
@@ -8326,7 +8326,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中",
-    "头像URL": "https://media.prts.wiki/thumb/头像_罗宾.png",
+    "头像URL": "https://media.prts.wiki/1/1f/头像_罗宾.png",
     "头像本地路径": "avatars/头像_罗宾.png"
   },
   {
@@ -8355,7 +8355,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "可以进行远程攻击，但此时攻击力降低至80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_罗小黑.png",
+    "头像URL": "https://media.prts.wiki/5/50/头像_罗小黑.png",
     "头像本地路径": "avatars/头像_罗小黑.png"
   },
   {
@@ -8385,7 +8385,7 @@
     ],
     "获取方式": "标准寻访, 中坚寻访",
     "特性": "能够阻挡两个敌人，使用<支援装置>协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_罗比菈塔.png",
+    "头像URL": "https://media.prts.wiki/5/52/头像_罗比菈塔.png",
     "头像本地路径": "avatars/头像_罗比菈塔.png"
   },
   {
@@ -8414,7 +8414,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "无法被友方角色治疗，攻击造成群体伤害，每攻击到一个敌人回复自身50生命，最大生效数等于阻挡数",
-    "头像URL": "https://media.prts.wiki/thumb/头像_羽毛笔.png",
+    "头像URL": "https://media.prts.wiki/b/b8/头像_羽毛笔.png",
     "头像本地路径": "avatars/头像_羽毛笔.png"
   },
   {
@@ -8444,7 +8444,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访, 主线剧情",
     "特性": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
-    "头像URL": "https://media.prts.wiki/thumb/头像_翎羽.png",
+    "头像URL": "https://media.prts.wiki/1/1f/头像_翎羽.png",
     "头像本地路径": "avatars/头像_翎羽.png"
   },
   {
@@ -8473,7 +8473,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_耀骑士临光.png",
+    "头像URL": "https://media.prts.wiki/0/03/头像_耀骑士临光.png",
     "头像本地路径": "avatars/头像_耀骑士临光.png"
   },
   {
@@ -8504,7 +8504,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_老鲤.png",
+    "头像URL": "https://media.prts.wiki/e/e5/头像_老鲤.png",
     "头像本地路径": "avatars/头像_老鲤.png"
   },
   {
@@ -8535,7 +8535,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "操作浮游单元造成法术伤害单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_耶拉.png",
+    "头像URL": "https://media.prts.wiki/7/71/头像_耶拉.png",
     "头像本地路径": "avatars/头像_耶拉.png"
   },
   {
@@ -8565,7 +8565,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "能够阻挡两个敌人，可以造成元素伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_聆音.png",
+    "头像URL": "https://media.prts.wiki/1/10/头像_聆音.png",
     "头像本地路径": "avatars/头像_聆音.png"
   },
   {
@@ -8595,7 +8595,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_能天使.png",
+    "头像URL": "https://media.prts.wiki/a/ad/头像_能天使.png",
     "头像本地路径": "avatars/头像_能天使.png"
   },
   {
@@ -8624,7 +8624,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "操作浮游单元造成法术伤害单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_至简.png",
+    "头像URL": "https://media.prts.wiki/9/98/头像_至简.png",
     "头像本地路径": "avatars/头像_至简.png"
   },
   {
@@ -8654,7 +8654,7 @@
     ],
     "获取方式": "公开招募",
     "特性": "同时攻击阻挡的所有敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_艾丝黛尔.png",
+    "头像URL": "https://media.prts.wiki/5/57/头像_艾丝黛尔.png",
     "头像本地路径": "avatars/头像_艾丝黛尔.png"
   },
   {
@@ -8685,7 +8685,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "普通攻击连续造成两次伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_艾丽妮.png",
+    "头像URL": "https://media.prts.wiki/5/57/头像_艾丽妮.png",
     "头像本地路径": "avatars/头像_艾丽妮.png"
   },
   {
@@ -8716,7 +8716,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中",
-    "头像URL": "https://media.prts.wiki/thumb/头像_艾拉.png",
+    "头像URL": "https://media.prts.wiki/2/26/头像_艾拉.png",
     "头像本地路径": "avatars/头像_艾拉.png"
   },
   {
@@ -8746,7 +8746,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_艾雅法拉.png",
+    "头像URL": "https://media.prts.wiki/c/cc/头像_艾雅法拉.png",
     "头像本地路径": "avatars/头像_艾雅法拉.png"
   },
   {
@@ -8777,7 +8777,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_芙兰卡.png",
+    "头像URL": "https://media.prts.wiki/2/2b/头像_芙兰卡.png",
     "头像本地路径": "avatars/头像_芙兰卡.png"
   },
   {
@@ -8806,7 +8806,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访, 主线剧情",
     "特性": "恢复友方单位生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_芙蓉.png",
+    "头像URL": "https://media.prts.wiki/d/d3/头像_芙蓉.png",
     "头像本地路径": "avatars/头像_芙蓉.png"
   },
   {
@@ -8835,7 +8835,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访, 主线剧情",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_芬.png",
+    "头像URL": "https://media.prts.wiki/4/41/头像_芬.png",
     "头像本地路径": "avatars/头像_芬.png"
   },
   {
@@ -8864,7 +8864,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "可以进行远程攻击，但此时攻击力降低至80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_芳汀.png",
+    "头像URL": "https://media.prts.wiki/6/6a/头像_芳汀.png",
     "头像本地路径": "avatars/头像_芳汀.png"
   },
   {
@@ -8894,7 +8894,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
-    "头像URL": "https://media.prts.wiki/thumb/头像_苇草.png",
+    "头像URL": "https://media.prts.wiki/7/7a/头像_苇草.png",
     "头像本地路径": "avatars/头像_苇草.png"
   },
   {
@@ -8925,7 +8925,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_苍苔.png",
+    "头像URL": "https://media.prts.wiki/9/95/头像_苍苔.png",
     "头像本地路径": "avatars/头像_苍苔.png"
   },
   {
@@ -8954,7 +8954,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "恢复友方单位生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_苏苏洛.png",
+    "头像URL": "https://media.prts.wiki/6/63/头像_苏苏洛.png",
     "头像本地路径": "avatars/头像_苏苏洛.png"
   },
   {
@@ -8984,7 +8984,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20秒后自身再次替换<替身>",
-    "头像URL": "https://media.prts.wiki/thumb/头像_若叶睦.png",
+    "头像URL": "https://media.prts.wiki/a/a0/头像_若叶睦.png",
     "头像本地路径": "avatars/头像_若叶睦.png"
   },
   {
@@ -9013,7 +9013,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_苦艾.png",
+    "头像URL": "https://media.prts.wiki/e/e9/头像_苦艾.png",
     "头像本地路径": "avatars/头像_苦艾.png"
   },
   {
@@ -9043,7 +9043,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "操作浮游单元造成法术伤害单元攻击同一敌人伤害提升（最高造成干员110%攻击力的伤害）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_荒芜拉普兰德.png",
+    "头像URL": "https://media.prts.wiki/0/04/头像_荒芜拉普兰德.png",
     "头像本地路径": "avatars/头像_荒芜拉普兰德.png"
   },
   {
@@ -9072,7 +9072,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "恢复友方单位生命，且会在3个友方单位间跳跃，每次跳跃治疗量降低25%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_莎草.png",
+    "头像URL": "https://media.prts.wiki/3/3d/头像_莎草.png",
     "头像本地路径": "avatars/头像_莎草.png"
   },
   {
@@ -9103,7 +9103,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_莫斯提马.png",
+    "头像URL": "https://media.prts.wiki/0/0b/头像_莫斯提马.png",
     "头像本地路径": "avatars/头像_莫斯提马.png"
   },
   {
@@ -9132,7 +9132,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_莱伊.png",
+    "头像URL": "https://media.prts.wiki/6/6a/头像_莱伊.png",
     "头像本地路径": "avatars/头像_莱伊.png"
   },
   {
@@ -9162,7 +9162,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_莱恩哈特.png",
+    "头像URL": "https://media.prts.wiki/0/03/头像_莱恩哈特.png",
     "头像本地路径": "avatars/头像_莱恩哈特.png"
   },
   {
@@ -9192,7 +9192,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_莱欧斯.png",
+    "头像URL": "https://media.prts.wiki/9/9c/头像_莱欧斯.png",
     "头像本地路径": "avatars/头像_莱欧斯.png"
   },
   {
@@ -9221,7 +9221,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成群体物理伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_菲亚梅塔.png",
+    "头像URL": "https://media.prts.wiki/b/b8/头像_菲亚梅塔.png",
     "头像本地路径": "avatars/头像_菲亚梅塔.png"
   },
   {
@@ -9251,7 +9251,7 @@
     ],
     "获取方式": "凭证交易所(采购)",
     "特性": "能够阻挡三个敌人，可以造成元素损伤",
-    "头像URL": "https://media.prts.wiki/thumb/头像_菲莱.png",
+    "头像URL": "https://media.prts.wiki/0/00/头像_菲莱.png",
     "头像本地路径": "avatars/头像_菲莱.png"
   },
   {
@@ -9281,7 +9281,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "起飞术语: 起飞不阻挡地面敌人且不会被地面敌人攻击，可以阻挡飞行敌人※包含地面规避异常效果: 地面规避无法被行动方式为地面的敌对阵营单位选中（属于无法选择类效果）※行动方式默认为地面，因此规避对象包括绝大部分角色类单位（干员、装置等）。（无法被敌对阵营的地面单位选中），可以阻挡近地悬浮单位※起飞的干员并非真正的飞行单位，不受攻击“是否对空”的影响后能够阻挡2个飞行敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_蒂比.png",
+    "头像URL": "https://media.prts.wiki/0/09/头像_蒂比.png",
     "头像本地路径": "avatars/头像_蒂比.png"
   },
   {
@@ -9310,7 +9310,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_蓝毒.png",
+    "头像URL": "https://media.prts.wiki/6/63/头像_蓝毒.png",
     "头像本地路径": "avatars/头像_蓝毒.png"
   },
   {
@@ -9340,7 +9340,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "优先攻击攻击范围内防御力最低的敌方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_蕾缪安.png",
+    "头像URL": "https://media.prts.wiki/c/c5/头像_蕾缪安.png",
     "头像本地路径": "avatars/头像_蕾缪安.png"
   },
   {
@@ -9370,7 +9370,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_薄绿.png",
+    "头像URL": "https://media.prts.wiki/3/30/头像_薄绿.png",
     "头像本地路径": "avatars/头像_薄绿.png"
   },
   {
@@ -9400,7 +9400,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_薇薇安娜.png",
+    "头像URL": "https://media.prts.wiki/4/4a/头像_薇薇安娜.png",
     "头像本地路径": "avatars/头像_薇薇安娜.png"
   },
   {
@@ -9430,7 +9430,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "攻击造成超远距离的群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_蚀清.png",
+    "头像URL": "https://media.prts.wiki/7/70/头像_蚀清.png",
     "头像本地路径": "avatars/头像_蚀清.png"
   },
   {
@@ -9459,7 +9459,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "能够阻挡三个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_蛇屠箱.png",
+    "头像URL": "https://media.prts.wiki/0/02/头像_蛇屠箱.png",
     "头像本地路径": "avatars/头像_蛇屠箱.png"
   },
   {
@@ -9488,7 +9488,7 @@
     ],
     "获取方式": "凭证交易所(采购)",
     "特性": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤术语: 元素损伤包括神经损伤、侵蚀损伤、灼燃损伤、凋亡损伤※最大元素值默认为1000，受到附加元素损伤的伤害时先结算伤害后结算元素损伤（可以回复未受伤友方单位的元素损伤术语: 元素损伤包括神经损伤、侵蚀损伤、灼燃损伤、凋亡损伤※最大元素值默认为1000，受到附加元素损伤的伤害时先结算伤害后结算元素损伤）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_蜜莓.png",
+    "头像URL": "https://media.prts.wiki/2/29/头像_蜜莓.png",
     "头像本地路径": "avatars/头像_蜜莓.png"
   },
   {
@@ -9518,7 +9518,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "通常时不攻击且防御力和法术抗性大幅度提升，技能开启时攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_蜜蜡.png",
+    "头像URL": "https://media.prts.wiki/1/1d/头像_蜜蜡.png",
     "头像本地路径": "avatars/头像_蜜蜡.png"
   },
   {
@@ -9548,7 +9548,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_行箸.png",
+    "头像URL": "https://media.prts.wiki/4/42/头像_行箸.png",
     "头像本地路径": "avatars/头像_行箸.png"
   },
   {
@@ -9578,7 +9578,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害可以使用召唤物协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_衡沙.png",
+    "头像URL": "https://media.prts.wiki/f/f8/头像_衡沙.png",
     "头像本地路径": "avatars/头像_衡沙.png"
   },
   {
@@ -9608,7 +9608,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "再部署时间减少，撤退时不返还部署费用，在场时每3秒消耗3点部署费用（不足时自动撤退）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_裁度.png",
+    "头像URL": "https://media.prts.wiki/4/4a/头像_裁度.png",
     "头像本地路径": "avatars/头像_裁度.png"
   },
   {
@@ -9637,7 +9637,7 @@
     ],
     "获取方式": "标准寻访, 中坚寻访",
     "特性": "恢复友方单位生命，并回复相当于攻击力50%的元素损伤术语: 元素损伤包括神经损伤、侵蚀损伤、灼燃损伤、凋亡损伤※最大元素值默认为1000，受到附加元素损伤的伤害时先结算伤害后结算元素损伤（可以回复未受伤友方单位的元素损伤术语: 元素损伤包括神经损伤、侵蚀损伤、灼燃损伤、凋亡损伤※最大元素值默认为1000，受到附加元素损伤的伤害时先结算伤害后结算元素损伤）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_褐果.png",
+    "头像URL": "https://media.prts.wiki/5/58/头像_褐果.png",
     "头像本地路径": "avatars/头像_褐果.png"
   },
   {
@@ -9667,7 +9667,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "同时攻击阻挡的所有敌人可以放置于远程位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_见行者.png",
+    "头像URL": "https://media.prts.wiki/d/d2/头像_见行者.png",
     "头像本地路径": "avatars/头像_见行者.png"
   },
   {
@@ -9697,7 +9697,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "能够阻挡三个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_角峰.png",
+    "头像URL": "https://media.prts.wiki/e/e4/头像_角峰.png",
     "头像本地路径": "avatars/头像_角峰.png"
   },
   {
@@ -9728,7 +9728,7 @@
     ],
     "获取方式": "信用交易所",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_讯使.png",
+    "头像URL": "https://media.prts.wiki/2/27/头像_讯使.png",
     "头像本地路径": "avatars/头像_讯使.png"
   },
   {
@@ -9759,7 +9759,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_诗怀雅.png",
+    "头像URL": "https://media.prts.wiki/5/50/头像_诗怀雅.png",
     "头像本地路径": "avatars/头像_诗怀雅.png"
   },
   {
@@ -9788,7 +9788,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_诺威尔.png",
+    "头像URL": "https://media.prts.wiki/6/69/头像_诺威尔.png",
     "头像本地路径": "avatars/头像_诺威尔.png"
   },
   {
@@ -9817,7 +9817,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "同时恢复三个友方单位的生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_调香师.png",
+    "头像URL": "https://media.prts.wiki/6/6a/头像_调香师.png",
     "头像本地路径": "avatars/头像_调香师.png"
   },
   {
@@ -9847,7 +9847,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "再部署时间减少，可使用远程攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_谜图.png",
+    "头像URL": "https://media.prts.wiki/7/79/头像_谜图.png",
     "头像本地路径": "avatars/头像_谜图.png"
   },
   {
@@ -9877,7 +9877,7 @@
     ],
     "获取方式": "标准寻访, 中坚寻访, 公开招募",
     "特性": "可以在攻击范围内选择一次战术点来召唤援军，自身攻击援军阻挡的敌人时攻击力提升至150%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_豆苗.png",
+    "头像URL": "https://media.prts.wiki/c/cb/头像_豆苗.png",
     "头像本地路径": "avatars/头像_豆苗.png"
   },
   {
@@ -9907,7 +9907,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20s后自身再次替换<替身>",
-    "头像URL": "https://media.prts.wiki/thumb/头像_贝娜.png",
+    "头像URL": "https://media.prts.wiki/9/95/头像_贝娜.png",
     "头像本地路径": "avatars/头像_贝娜.png"
   },
   {
@@ -9937,7 +9937,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_贾维.png",
+    "头像URL": "https://media.prts.wiki/2/2a/头像_贾维.png",
     "头像本地路径": "avatars/头像_贾维.png"
   },
   {
@@ -9967,7 +9967,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_赤冬.png",
+    "头像URL": "https://media.prts.wiki/f/fe/头像_赤冬.png",
     "头像本地路径": "avatars/头像_赤冬.png"
   },
   {
@@ -9997,7 +9997,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "同时攻击阻挡的所有敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_赫德雷.png",
+    "头像URL": "https://media.prts.wiki/f/f8/头像_赫德雷.png",
     "头像本地路径": "avatars/头像_赫德雷.png"
   },
   {
@@ -10027,7 +10027,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "不成为其他角色的治疗目标，每次攻击到敌人后回复自身70生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_赫拉格.png",
+    "头像URL": "https://media.prts.wiki/c/cd/头像_赫拉格.png",
     "头像本地路径": "avatars/头像_赫拉格.png"
   },
   {
@@ -10057,7 +10057,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "恢复友方单位生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_赫默.png",
+    "头像URL": "https://media.prts.wiki/3/39/头像_赫默.png",
     "头像本地路径": "avatars/头像_赫默.png"
   },
   {
@@ -10086,7 +10086,7 @@
     ],
     "获取方式": "凭证交易所(采购)",
     "特性": "持有回旋投射物时才能够攻击（投射物需要时间回收）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_跃跃.png",
+    "头像URL": "https://media.prts.wiki/a/aa/头像_跃跃.png",
     "头像本地路径": "avatars/头像_跃跃.png"
   },
   {
@@ -10116,7 +10116,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "技能开启时普通攻击会造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_车尔尼.png",
+    "头像URL": "https://media.prts.wiki/1/1c/头像_车尔尼.png",
     "头像本地路径": "avatars/头像_车尔尼.png"
   },
   {
@@ -10147,7 +10147,7 @@
     ],
     "获取方式": "主线剧情",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_达格达.png",
+    "头像URL": "https://media.prts.wiki/d/dd/头像_达格达.png",
     "头像本地路径": "avatars/头像_达格达.png"
   },
   {
@@ -10176,7 +10176,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "攻击造成群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_远山.png",
+    "头像URL": "https://media.prts.wiki/6/63/头像_远山.png",
     "头像本地路径": "avatars/头像_远山.png"
   },
   {
@@ -10206,7 +10206,7 @@
     ],
     "获取方式": "中坚寻访",
     "特性": "优先攻击攻击范围内防御力最低的敌方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_远牙.png",
+    "头像URL": "https://media.prts.wiki/a/a1/头像_远牙.png",
     "头像本地路径": "avatars/头像_远牙.png"
   },
   {
@@ -10236,7 +10236,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "攻击对小范围的地面敌人造成两次物理伤害（第二次为余震，伤害降低至攻击力的一半）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_迷迭香.png",
+    "头像URL": "https://media.prts.wiki/3/3b/头像_迷迭香.png",
     "头像本地路径": "avatars/头像_迷迭香.png"
   },
   {
@@ -10265,7 +10265,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击范围内的所有敌人，对自己前方一横排的敌人攻击力提升至150%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_送葬人.png",
+    "头像URL": "https://media.prts.wiki/d/da/头像_送葬人.png",
     "头像本地路径": "avatars/头像_送葬人.png"
   },
   {
@@ -10295,7 +10295,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_逻各斯.png",
+    "头像URL": "https://media.prts.wiki/4/44/头像_逻各斯.png",
     "头像本地路径": "avatars/头像_逻各斯.png"
   },
   {
@@ -10326,7 +10326,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，技能开启后改为治疗友方单位（治疗量相当于75%攻击力）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_遥.png",
+    "头像URL": "https://media.prts.wiki/e/ec/头像_遥.png",
     "头像本地路径": "avatars/头像_遥.png"
   },
   {
@@ -10356,7 +10356,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，可以造成元素损伤",
-    "头像URL": "https://media.prts.wiki/thumb/头像_酒神.png",
+    "头像URL": "https://media.prts.wiki/0/0d/头像_酒神.png",
     "头像本地路径": "avatars/头像_酒神.png"
   },
   {
@@ -10385,7 +10385,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "高精度的近距离射击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_酸糖.png",
+    "头像URL": "https://media.prts.wiki/e/e9/头像_酸糖.png",
     "头像本地路径": "avatars/头像_酸糖.png"
   },
   {
@@ -10415,7 +10415,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "能够阻挡一个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_重岳.png",
+    "头像URL": "https://media.prts.wiki/0/09/头像_重岳.png",
     "头像本地路径": "avatars/头像_重岳.png"
   },
   {
@@ -10446,7 +10446,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
-    "头像URL": "https://media.prts.wiki/thumb/头像_野鬃.png",
+    "头像URL": "https://media.prts.wiki/9/9f/头像_野鬃.png",
     "头像本地路径": "avatars/头像_野鬃.png"
   },
   {
@@ -10476,7 +10476,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中",
-    "头像URL": "https://media.prts.wiki/thumb/头像_钼铅.png",
+    "头像URL": "https://media.prts.wiki/2/20/头像_钼铅.png",
     "头像本地路径": "avatars/头像_钼铅.png"
   },
   {
@@ -10507,7 +10507,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害，并对敌人造成短暂的停顿术语: 停顿移动速度降低80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_铃兰.png",
+    "头像URL": "https://media.prts.wiki/5/55/头像_铃兰.png",
     "头像本地路径": "avatars/头像_铃兰.png"
   },
   {
@@ -10536,7 +10536,7 @@
     ],
     "获取方式": "标准寻访, 中坚寻访",
     "特性": "优先攻击重量最重的敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_铅踝.png",
+    "头像URL": "https://media.prts.wiki/8/87/头像_铅踝.png",
     "头像本地路径": "avatars/头像_铅踝.png"
   },
   {
@@ -10565,7 +10565,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "同时攻击阻挡的所有敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_铎铃.png",
+    "头像URL": "https://media.prts.wiki/4/4a/头像_铎铃.png",
     "头像本地路径": "avatars/头像_铎铃.png"
   },
   {
@@ -10596,7 +10596,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "可以进行远程攻击，但此时攻击力降低至80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_银灰.png",
+    "头像URL": "https://media.prts.wiki/2/27/头像_银灰.png",
     "头像本地路径": "avatars/头像_银灰.png"
   },
   {
@@ -10626,7 +10626,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_铸铁.png",
+    "头像URL": "https://media.prts.wiki/8/84/头像_铸铁.png",
     "头像本地路径": "avatars/头像_铸铁.png"
   },
   {
@@ -10658,7 +10658,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "普通攻击连续造成两次伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_锏.png",
+    "头像URL": "https://media.prts.wiki/0/0f/头像_锏.png",
     "头像本地路径": "avatars/头像_锏.png"
   },
   {
@@ -10688,7 +10688,7 @@
     ],
     "获取方式": "活动获得",
     "特性": "可以投掷炼金单元协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_锡人.png",
+    "头像URL": "https://media.prts.wiki/a/a1/头像_锡人.png",
     "头像本地路径": "avatars/头像_锡人.png"
   },
   {
@@ -10718,7 +10718,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "拥有较大治疗范围，但在治疗较远目标时治疗量变为80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_锡兰.png",
+    "头像URL": "https://media.prts.wiki/3/39/头像_锡兰.png",
     "头像本地路径": "avatars/头像_锡兰.png"
   },
   {
@@ -10748,7 +10748,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "能够阻挡三个敌人，可以进行远程攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_闪击.png",
+    "头像URL": "https://media.prts.wiki/c/c1/头像_闪击.png",
     "头像本地路径": "avatars/头像_闪击.png"
   },
   {
@@ -10778,7 +10778,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "恢复友方单位生命",
-    "头像URL": "https://media.prts.wiki/thumb/头像_闪灵.png",
+    "头像URL": "https://media.prts.wiki/5/54/头像_闪灵.png",
     "头像本地路径": "avatars/头像_闪灵.png"
   },
   {
@@ -10808,7 +10808,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "自身生命会不断流失",
-    "头像URL": "https://media.prts.wiki/thumb/头像_阿.png",
+    "头像URL": "https://media.prts.wiki/3/31/头像_阿.png",
     "头像本地路径": "avatars/头像_阿.png"
   },
   {
@@ -10838,7 +10838,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "能够阻挡两个敌人，使用<支援装置>协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_阿兰娜.png",
+    "头像URL": "https://media.prts.wiki/b/b6/头像_阿兰娜.png",
     "头像本地路径": "avatars/头像_阿兰娜.png"
   },
   {
@@ -10869,7 +10869,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "对攻击范围内所有敌人造成伤害拥有50%的物理和法术闪避且不容易成为敌人的攻击目标",
-    "头像URL": "https://media.prts.wiki/thumb/头像_阿斯卡纶.png",
+    "头像URL": "https://media.prts.wiki/7/76/头像_阿斯卡纶.png",
     "头像本地路径": "avatars/头像_阿斯卡纶.png"
   },
   {
@@ -10898,7 +10898,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访, 主线剧情",
     "特性": "同时攻击阻挡的所有敌人可以放置于远程位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_阿消.png",
+    "头像URL": "https://media.prts.wiki/2/2f/头像_阿消.png",
     "头像本地路径": "avatars/头像_阿消.png"
   },
   {
@@ -10927,7 +10927,7 @@
     ],
     "获取方式": "主线剧情",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_阿米娅.png",
+    "头像URL": "https://media.prts.wiki/3/36/头像_阿米娅.png",
     "头像本地路径": "avatars/头像_阿米娅.png"
   },
   {
@@ -10957,7 +10957,7 @@
     ],
     "获取方式": "主线剧情",
     "特性": "攻击造成法术伤害，攻击敌人时为攻击范围内一名友方干员治疗相当于50%伤害的生命值",
-    "头像URL": "https://media.prts.wiki/thumb/头像_阿米娅(医疗).png",
+    "头像URL": "https://media.prts.wiki/a/ac/头像_阿米娅(医疗).png",
     "头像本地路径": "avatars/头像_阿米娅(医疗).png"
   },
   {
@@ -10987,7 +10987,7 @@
     ],
     "获取方式": "主线剧情",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_阿米娅(近卫).png",
+    "头像URL": "https://media.prts.wiki/5/5b/头像_阿米娅(近卫).png",
     "头像本地路径": "avatars/头像_阿米娅(近卫).png"
   },
   {
@@ -11017,7 +11017,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成超远距离的群体法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_阿罗玛.png",
+    "头像URL": "https://media.prts.wiki/f/f6/头像_阿罗玛.png",
     "头像本地路径": "avatars/头像_阿罗玛.png"
   },
   {
@@ -11048,7 +11048,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "普通攻击连续造成两次伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_陈.png",
+    "头像URL": "https://media.prts.wiki/c/cf/头像_陈.png",
     "头像本地路径": "avatars/头像_陈.png"
   },
   {
@@ -11078,7 +11078,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成群体物理伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_陨星.png",
+    "头像URL": "https://media.prts.wiki/e/ea/头像_陨星.png",
     "头像本地路径": "avatars/头像_陨星.png"
   },
   {
@@ -11108,7 +11108,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "无法被友方角色治疗，攻击造成群体伤害，每攻击到一个敌人回复自身50生命，最大生效数等于阻挡数",
-    "头像URL": "https://media.prts.wiki/thumb/头像_隐德来希.png",
+    "头像URL": "https://media.prts.wiki/4/4c/头像_隐德来希.png",
     "头像本地路径": "avatars/头像_隐德来希.png"
   },
   {
@@ -11137,7 +11137,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "优先攻击空中单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_隐现.png",
+    "头像URL": "https://media.prts.wiki/8/85/头像_隐现.png",
     "头像本地路径": "avatars/头像_隐现.png"
   },
   {
@@ -11167,7 +11167,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击时需要消耗子弹且攻击力提升至120%，不攻击时会缓慢地装填子弹（最多8发）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_雪猎.png",
+    "头像URL": "https://media.prts.wiki/c/cc/头像_雪猎.png",
     "头像本地路径": "avatars/头像_雪猎.png"
   },
   {
@@ -11197,7 +11197,7 @@
     ],
     "获取方式": "凭证交易所(采购)",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_雪绒.png",
+    "头像URL": "https://media.prts.wiki/8/82/头像_雪绒.png",
     "头像本地路径": "avatars/头像_雪绒.png"
   },
   {
@@ -11227,7 +11227,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "技能可以使敌人产生位移可以放置于远程位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_雪雉.png",
+    "头像URL": "https://media.prts.wiki/2/24/头像_雪雉.png",
     "头像本地路径": "avatars/头像_雪雉.png"
   },
   {
@@ -11258,7 +11258,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "能够阻挡三个敌人，可以进行远程攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_雷蛇.png",
+    "头像URL": "https://media.prts.wiki/f/f5/头像_雷蛇.png",
     "头像本地路径": "avatars/头像_雷蛇.png"
   },
   {
@@ -11288,7 +11288,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害",
-    "头像URL": "https://media.prts.wiki/thumb/头像_霍尔海雅.png",
+    "头像URL": "https://media.prts.wiki/9/9e/头像_霍尔海雅.png",
     "头像本地路径": "avatars/头像_霍尔海雅.png"
   },
   {
@@ -11318,7 +11318,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "可以使用陷阱来协助作战，但陷阱无法放置于敌人已在的格子中",
-    "头像URL": "https://media.prts.wiki/thumb/头像_霜华.png",
+    "头像URL": "https://media.prts.wiki/5/51/头像_霜华.png",
     "头像本地路径": "avatars/头像_霜华.png"
   },
   {
@@ -11348,7 +11348,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "可以进行远程攻击，但此时攻击力降低至80%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_霜叶.png",
+    "头像URL": "https://media.prts.wiki/2/29/头像_霜叶.png",
     "头像本地路径": "avatars/头像_霜叶.png"
   },
   {
@@ -11378,7 +11378,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "无法被友方角色治疗",
-    "头像URL": "https://media.prts.wiki/thumb/头像_露托.png",
+    "头像URL": "https://media.prts.wiki/7/77/头像_露托.png",
     "头像本地路径": "avatars/头像_露托.png"
   },
   {
@@ -11409,7 +11409,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_青枳.png",
+    "头像URL": "https://media.prts.wiki/0/0e/头像_青枳.png",
     "头像本地路径": "avatars/头像_青枳.png"
   },
   {
@@ -11439,7 +11439,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "可以攻击到较远敌人，攻击自身未阻挡的敌人时攻击力提升至120%",
-    "头像URL": "https://media.prts.wiki/thumb/头像_鞭刃.png",
+    "头像URL": "https://media.prts.wiki/f/f8/头像_鞭刃.png",
     "头像本地路径": "avatars/头像_鞭刃.png"
   },
   {
@@ -11469,7 +11469,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "受到致命伤时不撤退，切换成<替身>作战（替身阻挡数为0），持续20s后自身再次替换<替身>",
-    "头像URL": "https://media.prts.wiki/thumb/头像_风丸.png",
+    "头像URL": "https://media.prts.wiki/1/12/头像_风丸.png",
     "头像本地路径": "avatars/头像_风丸.png"
   },
   {
@@ -11499,7 +11499,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
-    "头像URL": "https://media.prts.wiki/thumb/头像_风笛.png",
+    "头像URL": "https://media.prts.wiki/d/de/头像_风笛.png",
     "头像本地路径": "avatars/头像_风笛.png"
   },
   {
@@ -11529,7 +11529,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "同时攻击阻挡的所有敌人可以放置于远程位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_食铁兽.png",
+    "头像URL": "https://media.prts.wiki/d/dd/头像_食铁兽.png",
     "头像本地路径": "avatars/头像_食铁兽.png"
   },
   {
@@ -11559,7 +11559,7 @@
     ],
     "获取方式": "公开招募, 标准寻访, 中坚寻访",
     "特性": "能够阻挡两个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_香草.png",
+    "头像URL": "https://media.prts.wiki/c/c8/头像_香草.png",
     "头像本地路径": "avatars/头像_香草.png"
   },
   {
@@ -11588,7 +11588,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "通常不攻击且阻挡数为0，技能未开启时40秒内攻击力逐渐提升至最高+200%且技能结束时重置攻击力",
-    "头像URL": "https://media.prts.wiki/thumb/头像_骋风.png",
+    "头像URL": "https://media.prts.wiki/f/fe/头像_骋风.png",
     "头像本地路径": "avatars/头像_骋风.png"
   },
   {
@@ -11619,7 +11619,7 @@
     ],
     "获取方式": "主线剧情",
     "特性": "不攻击，持续恢复范围内所有友军生命（每秒相当于自身攻击力10%的生命），自身不受鼓舞术语: 鼓舞获得额外附加的基础属性加成（同类属性取最高）※给予他人鼓舞效果的角色会将自身的鼓舞BUFF重写后适用于受益者（先最终乘算计算加成数值后，重写为最终加算，再将鼓舞赋予受益者）※同类效果取倍率最高（非最终数值）生效影响",
-    "头像URL": "https://media.prts.wiki/thumb/头像_魔王.png",
+    "头像URL": "https://media.prts.wiki/d/de/头像_魔王.png",
     "头像本地路径": "avatars/头像_魔王.png"
   },
   {
@@ -11648,7 +11648,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "高精度的近距离射击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_鸿雪.png",
+    "头像URL": "https://media.prts.wiki/1/1b/头像_鸿雪.png",
     "头像本地路径": "avatars/头像_鸿雪.png"
   },
   {
@@ -11678,7 +11678,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "再部署时间大幅度减少",
-    "头像URL": "https://media.prts.wiki/thumb/头像_麒麟R夜刀.png",
+    "头像URL": "https://media.prts.wiki/e/e5/头像_麒麟R夜刀.png",
     "头像本地路径": "avatars/头像_麒麟R夜刀.png"
   },
   {
@@ -11710,7 +11710,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "攻击造成法术伤害可以使用召唤物协助作战",
-    "头像URL": "https://media.prts.wiki/thumb/头像_麦哲伦.png",
+    "头像URL": "https://media.prts.wiki/4/4d/头像_麦哲伦.png",
     "头像本地路径": "avatars/头像_麦哲伦.png"
   },
   {
@@ -11742,7 +11742,7 @@
     ],
     "获取方式": "限定寻访",
     "特性": "技能可以治疗友方单位",
-    "头像URL": "https://media.prts.wiki/thumb/头像_黍.png",
+    "头像URL": "https://media.prts.wiki/f/f2/头像_黍.png",
     "头像本地路径": "avatars/头像_黍.png"
   },
   {
@@ -11772,7 +11772,7 @@
     ],
     "获取方式": "公开招募, 中坚寻访",
     "特性": "高精度的近距离射击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_黑.png",
+    "头像URL": "https://media.prts.wiki/d/d4/头像_黑.png",
     "头像本地路径": "avatars/头像_黑.png"
   },
   {
@@ -11801,7 +11801,7 @@
     ],
     "获取方式": "公开招募",
     "特性": "能够阻挡三个敌人",
-    "头像URL": "https://media.prts.wiki/thumb/头像_黑角.png",
+    "头像URL": "https://media.prts.wiki/f/f1/头像_黑角.png",
     "头像本地路径": "avatars/头像_黑角.png"
   },
   {
@@ -11830,7 +11830,7 @@
     ],
     "获取方式": "标准寻访",
     "特性": "攻击造成法术伤害，在找不到攻击目标时可以将攻击能量储存起来之后一齐发射（最多3个）",
-    "头像URL": "https://media.prts.wiki/thumb/头像_黑键.png",
+    "头像URL": "https://media.prts.wiki/1/1e/头像_黑键.png",
     "头像本地路径": "avatars/头像_黑键.png"
   },
   {
@@ -11860,7 +11860,7 @@
     ],
     "获取方式": "联动寻访",
     "特性": "再部署时间减少，可使用远程攻击",
-    "头像URL": "https://media.prts.wiki/thumb/头像_齐尔查克.png",
+    "头像URL": "https://media.prts.wiki/4/42/头像_齐尔查克.png",
     "头像本地路径": "avatars/头像_齐尔查克.png"
   },
   {
@@ -11889,7 +11889,7 @@
     ],
     "获取方式": "活动获得, 记录修复奖励",
     "特性": "通常不攻击且阻挡数为0，技能未开启时40秒内攻击力逐渐提升至最高+200%且技能结束时重置攻击力",
-    "头像URL": "https://media.prts.wiki/thumb/头像_龙舌兰.png",
+    "头像URL": "https://media.prts.wiki/4/42/头像_龙舌兰.png",
     "头像本地路径": "avatars/头像_龙舌兰.png"
   }
 ]
