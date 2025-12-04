@@ -57,7 +57,7 @@ def download_avatar(avatar_info, avatars_folder="avatars", max_retries=3):
         
         # 为了避免文件名冲突，可以加上干员名称
         name_clean = re.sub(r'[<>:"/\\|?*]', '_', name)
-        filename = f"{name_clean}_{filename}"
+        filename = f"{filename}"
         
         # 创建文件路径
         file_path = os.path.join(avatars_folder, filename)
