@@ -294,7 +294,6 @@
                 <li><strong>双击干员</strong>：选择干员（红框标记，一局只能选一次，选择后不可更改）</li>
                 <li><strong>单击干员</strong>：排除干员（变灰，可反复切换，已选中的干员也可排除）</li>
                 <li><strong>校验码</strong>：确保双方获得相同的干员列表</li>
-                <li><strong>自动刷新</strong>：每分钟自动更新干员列表</li>
             </ul>
         </div>
 
@@ -324,7 +323,6 @@
                 this.isGameStarted = false;
                 this.selectionLocked = false;
                 this.currentTimeSeed = null;
-                this.autoRefreshTimer = null;
 
                 this.initializeEventListeners();
                 this.loadOperatorsData();
@@ -490,9 +488,6 @@
                     this.isGameStarted = true;
                     startButton.textContent = '🔄 重新开始';
 
-                    // 设置自动刷新
-                    this.setupAutoRefresh();
-
                 } catch (error) {
                     console.error('Error starting game:', error);
                     this.showError(`启动游戏失败: ${error.message}`);
@@ -501,22 +496,6 @@
                     startButton.disabled = false;
                     loadingDiv.style.display = 'none';
                 }
-            }
-
-            setupAutoRefresh() {
-                // 清除之前的定时器
-                if (this.autoRefreshTimer) {
-                    clearInterval(this.autoRefreshTimer);
-                }
-
-                // 每秒检查一次时间种子是否变化
-                this.autoRefreshTimer = setInterval(() => {
-                    const newTimeSeed = this.getTimeSeed();
-                    if (newTimeSeed !== this.currentTimeSeed && this.isGameStarted) {
-                        console.log('时间变化，自动刷新游戏');
-                        this.startGame();
-                    }
-                }, 1000);
             }
 
             displayVerificationInfo(code, timestamp) {
