@@ -3,6 +3,8 @@
 此代码用于启动一个明日方舟干员猜猜网页端，玩法参考: 
 [b站视频 【超小杯】猜干员第四弹 | 让我知道我什么杯](https://www.bilibili.com/video/BV1oe9JYfEoY)
 
+访问地址: [https://rwandanmtgorilla.github.io/arknights_guessWho/](https://rwandanmtgorilla.github.io/arknights_guessWho/)
+
 ## 玩法
 ### 游戏准备
 1. 玩家双方确保可以相互联系(对话/通话)
