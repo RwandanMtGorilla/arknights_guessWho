@@ -327,6 +327,7 @@
                 this.excludedOperators = new Set();
                 this.isGameStarted = false;
                 this.selectionLocked = false;
+                this.lastCardClick = null;
                 this.currentTimeSeed = null;
 
                 this.initializeEventListeners();
@@ -451,6 +452,7 @@
                     this.selectedOperator = null;
                     this.excludedOperators.clear();
                     this.selectionLocked = false;
+                    this.lastCardClick = null;
 
                     // 获取时间种子
                     this.currentTimeSeed = this.getTimeSeed();
@@ -554,6 +556,16 @@
                 card.addEventListener('click', (e) => {
                     e.preventDefault();
                     this.handleSingleClick(index);
+
+                    if (!this.isGameStarted || this.selectionLocked) return;
+
+                    // 有些触屏浏览器会发送两次 click，但不会发送 dblclick。
+                    const previousClick = this.lastCardClick;
+                    if (previousClick?.index === index && e.timeStamp - previousClick.timeStamp <= 400) {
+                        this.handleDoubleClick(index);
+                        return;
+                    }
+                    this.lastCardClick = {index, timeStamp: e.timeStamp};
                 });
 
                 card.addEventListener('dblclick', (e) => {
