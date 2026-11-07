@@ -4,6 +4,8 @@ import os
 from urllib.parse import urlparse, urljoin
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
+from tempfile import NamedTemporaryFile
 import re
 
 def get_session_with_headers():
@@ -117,20 +119,24 @@ def download_avatar(avatar_info, avatars_folder="avatars", max_retries=3):
                     if '<html>' in content_preview.lower():
                         raise Exception("仍然收到HTML页面，可能需要登录或有其他限制")
                 
-                # 保存文件
-                with open(file_path, 'wb') as file:
-                    for chunk in response.iter_content(chunk_size=8192):
-                        if chunk:
-                            file.write(chunk)
-                
-                # 验证文件大小
-                file_size = os.path.getsize(file_path)
-                if file_size < 100:  # 小于100字节可能不是有效图片
-                    with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
-                        content = f.read()
-                        if '<html>' in content.lower():
-                            os.remove(file_path)
+                # 下载完成后再写入正式路径，避免重试时跳过不完整的文件。
+                staging_path = None
+                try:
+                    with NamedTemporaryFile(dir=avatars_folder, suffix='.part', delete=False) as file:
+                        staging_path = Path(file.name)
+                        for chunk in response.iter_content(chunk_size=8192):
+                            if chunk:
+                                file.write(chunk)
+
+                    file_size = staging_path.stat().st_size
+                    if file_size < 100:
+                        if '<html>' in staging_path.read_text(encoding='utf-8', errors='ignore').lower():
                             raise Exception("下载的文件是HTML页面")
+
+                    staging_path.replace(file_path)
+                finally:
+                    if staging_path is not None:
+                        staging_path.unlink(missing_ok=True)
                 
                 print(f"成功下载 {name}: {filename} ({file_size} 字节)")
                 return True, name, filename
@@ -159,7 +165,7 @@ def test_single_download(operators_data, avatars_folder='avatars'):
     """
     if not operators_data:
         print("没有干员数据")
-        return
+        return False, "没有干员数据"
     
     print("测试下载第一个干员的头像...")
     test_operator = operators_data[0]
@@ -170,10 +176,9 @@ def test_single_download(operators_data, avatars_folder='avatars'):
     
     if success:
         print(f"测试成功！可以继续批量下载")
-        return True
     else:
         print(f"测试失败: {result}")
-        return False
+    return success, result
 
 def download_all_avatars(json_file='operators_data.json', avatars_folder='avatars', max_workers=2):
     """
@@ -181,7 +186,7 @@ def download_all_avatars(json_file='operators_data.json', avatars_folder='avatar
     """
     if not os.path.exists(json_file):
         print(f"错误: 找不到文件 {json_file}")
-        return
+        return False
     
     # 创建头像文件夹
     os.makedirs(avatars_folder, exist_ok=True)
@@ -193,16 +198,17 @@ def download_all_avatars(json_file='operators_data.json', avatars_folder='avatar
     print(f"找到 {len(operators_data)} 个干员")
     
     # 先测试下载一个
-    if not test_single_download(operators_data, avatars_folder):
+    success, result = test_single_download(operators_data, avatars_folder)
+    if not success:
         print("测试下载失败，请检查网络连接或网站访问限制")
-        return
+        return False
     
     print(f"开始批量下载剩余 {len(operators_data)-1} 个干员的头像...")
     
     # 统计信息
-    successful_downloads = 1  # 测试下载成功的那个
+    skipped_downloads = int(result == "文件已存在")
+    successful_downloads = 1 - skipped_downloads
     failed_downloads = 0
-    skipped_downloads = 0
     
     # 降低并发数以避免被封
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
@@ -239,6 +245,7 @@ def download_all_avatars(json_file='operators_data.json', avatars_folder='avatar
     print(f"下载失败: {failed_downloads}")
     print(f"总计处理: {len(operators_data)}")
     print(f"头像保存在: {os.path.abspath(avatars_folder)}")
+    return failed_downloads == 0
 
 def verify_downloaded_images(avatars_folder='avatars'):
     """

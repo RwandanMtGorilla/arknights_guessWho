@@ -32,6 +32,16 @@ uv run main.py
 
 ```
 
+## 更新干员数据
+
+安装依赖后，在项目根目录执行以下命令。
+
+```powershell
+uv run update_data.py
+```
+
+也可以用已安装依赖的 Python 运行 `python update_data.py`。脚本会抓取 PRTS 干员一览、提取数据并补齐头像，全部成功后才替换 `input.html` 和 `operators_data.json`。头像下载失败后可以重跑，脚本会跳过已经下载的文件。更新成功后，在游戏页面点「重新开始」即可读取新数据。
+
 ## 代码解释
 
 - `main.py`: 基于fastapi 启动网页端后端
@@ -39,9 +49,10 @@ uv run main.py
 - `excel_generator_packaged.py` 适合没有公网ip条件时 用excel作为游戏载体
 
 
-- `input.html`: [方舟wiki](https://prts.wiki/w/%E5%B9%B2%E5%91%98%E4%B8%80%E8%A7%88) 上复制来的htlm页面代码 （只含6星干员 可自选其他范围）
+- `request_prts.py`: 获取 [PRTS Wiki 干员一览](https://prts.wiki/w/%E5%B9%B2%E5%91%98%E4%B8%80%E8%A7%88) 页面，保存为 `input.html`
+- `input.html`: 干员一览 HTML 快照
 - `extract.py`: 读取`input.html` 抽取出信息，存入`operators_data.json`
 - `operators_data.json`: 干员名称等页面抽取到的信息
-- `downloader`: 读取`operators_data.json`获取头像链接 并下载头像png存储于`avatars`文件夹
+- `downloader.py`: 读取干员数据中的头像链接，下载到 `avatars` 文件夹
 
 
