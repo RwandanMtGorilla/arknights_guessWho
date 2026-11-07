@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>明日方舟干员选择游戏</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Microsoft YaHei', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            color: white;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .verification-info {
+            background: rgba(255, 255, 255, 0.9);
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .verification-code {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #2c3e50;
+            letter-spacing: 2px;
+        }
+
+        .timestamp {
+            color: #7f8c8d;
+            margin-top: 5px;
+        }
+
+        .start-button {
+            background: linear-gradient(45deg, #ff6b6b, #ee5a24);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            margin-bottom: 30px;
+        }
+
+        .start-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+        }
+
+        .start-button:disabled {
+            background: #bdc3c7;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .game-container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            max-width: 1200px;
+            width: 100%;
+        }
+
+        .operators-grid {
+            display: grid;
+            gap: 10px;
+            justify-content: center;
+        }
+
+        /* 桌面端：5行6列 */
+        @media (min-width: 768px) {
+            .operators-grid {
+                grid-template-columns: repeat(6, 1fr);
+                grid-template-rows: repeat(5, 1fr);
+            }
+        }
+
+        /* 移动端：6行5列 */
+        @media (max-width: 767px) {
+            .operators-grid {
+                grid-template-columns: repeat(5, 1fr);
+                grid-template-rows: repeat(6, 1fr);
+            }
+        }
+
+        .operator-card {
+            background: white;
+            border: 3px solid #e1e8ed;
+            border-radius: 10px;
+            padding: 15px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            min-height: 140px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .operator-card:hover {
+            transform: scale(1.05);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+
+        .operator-card.selected {
+            border-color: #e74c3c;
+            background: #fdf2f2;
+            box-shadow: 0 0 15px rgba(231, 76, 60, 0.3);
+        }
+
+        .operator-card.selected::after {
+            content: '✓';
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            color: #e74c3c;
+            font-size: 1.5em;
+            font-weight: bold;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+        }
+
+        .operator-card.excluded {
+            background: #f8f9fa;
+            opacity: 0.4;
+            border-color: #dee2e6;
+        }
+
+        .operator-card.excluded::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(108, 117, 125, 0.4);
+            border-radius: 7px;
+        }
+
+        .operator-card.selection-locked {
+            cursor: default;
+        }
+
+        .operator-card.selection-locked:hover {
+            transform: none;
+        }
+
+        .operator-avatar {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 10px;
+            border: 3px solid #ddd;
+            transition: all 0.3s ease;
+        }
+
+        .operator-card.selected .operator-avatar {
+            border-color: #e74c3c;
+        }
+
+        .operator-name {
+            font-size: 1em;
+            font-weight: bold;
+            color: #2c3e50;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+        }
+
+        .loading {
+            text-align: center;
+            color: #666;
+            font-size: 1.1em;
+            padding: 40px;
+        }
+
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            border: 1px solid #f5c6cb;
+        }
+
+        .game-status {
+            background: #d4edda;
+            color: #155724;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            border: 1px solid #c3e6cb;
+            text-align: center;
+            font-size: 1.1em;
+        }
+
+        .instructions {
+            background: #fff3cd;
+            color: #856404;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            border: 1px solid #ffeaa7;
+        }
+
+        .instructions h3 {
+            margin-bottom: 10px;
+        }
+
+        .instructions ul {
+            margin-left: 20px;
+        }
+
+        .instructions li {
+            margin-bottom: 5px;
+        }
+
+        .lock-notice {
+            background: #f0ad4e;
+            color: #8a6d3b;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        @media (max-width: 767px) {
+            .header h1 {
+                font-size: 1.8em;
+            }
+
+            .operator-card {
+                min-height: 120px;
+                padding: 10px;
+            }
+
+            .operator-avatar {
+                width: 60px;
+                height: 60px;
+            }
+
+            .operator-name {
+                font-size: 0.9em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏠 明日方舟干员选择游戏</h1>
+        <p>与朋友一起进行策略选择！</p>
+    </div>
+
+    <div id="verification-info" class="verification-info" style="display: none;">
+        <div>校验码: <span id="verification-code" class="verification-code"></span></div>
+        <div id="timestamp" class="timestamp"></div>
+    </div>
+
+    <button id="start-button" class="start-button">🎮 开始游戏</button>
+
+    <div id="error-message" class="error" style="display: none;"></div>
+
+    <div id="game-container" class="game-container" style="display: none;">
+        <div class="instructions">
+            <h3>📋 游戏说明</h3>
+            <ul>
+                <li><strong>双击干员</strong>：选择干员（红框标记，一局只能选一次，选择后不可更改）</li>
+                <li><strong>单击干员</strong>：排除干员（变灰，可反复切换，已选中的干员也可排除）</li>
+                <li><strong>校验码</strong>：确保双方获得相同的干员列表</li>
+            </ul>
+        </div>
+
+        <div id="lock-notice" class="lock-notice" style="display: none;">
+            ⚠️ 已选择干员，双击选择功能已锁定！只能通过单击进行排除操作。
+        </div>
+
+        <div id="game-status" class="game-status"></div>
+
+        <div id="loading" class="loading" style="display: none;">
+            🔄 正在加载干员数据...
+        </div>
+
+        <div id="operators-grid" class="operators-grid"></div>
+    </div>
+
+    <!-- MD5 Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+
+    <script>
+        class ArknightsGame {
+            constructor() {
+                this.allOperators = []; // 所有干员数据
+                this.operators = []; // 当前显示的干员
+                this.selectedOperator = null;
+                this.excludedOperators = new Set();
+                this.isGameStarted = false;
+                this.selectionLocked = false;
+                this.currentTimeSeed = null;
+
+                this.initializeEventListeners();
+                this.loadOperatorsData();
+            }
+
+            initializeEventListeners() {
+                document.getElementById('start-button').addEventListener('click', () => {
+                    this.startGame();
+                });
+            }
+
+            async loadOperatorsData() {
+                try {
+                    // 加载干员数据JSON
+                    const response = await fetch('operators_data.json');
+                    if (!response.ok) {
+                        throw new Error(`无法加载干员数据: ${response.status}`);
+                    }
+
+                    this.allOperators = await response.json();
+
+                    // 筛选六星干员（稀有度为"5"）
+                    this.allOperators = this.allOperators.filter(op => op.稀有度 === "5");
+
+                    console.log(`已加载 ${this.allOperators.length} 个六星干员`);
+                } catch (error) {
+                    console.error('加载干员数据失败:', error);
+                    this.showError(`加载干员数据失败: ${error.message}`);
+                }
+            }
+
+            getTimeSeed() {
+                // 获取基于当前分钟的时间种子，与后端逻辑一致
+                const now = new Date();
+                const year = now.getFullYear();
+                const month = String(now.getMonth() + 1).padStart(2, '0');
+                const day = String(now.getDate()).padStart(2, '0');
+                const hour = String(now.getHours()).padStart(2, '0');
+                const minute = String(now.getMinutes()).padStart(2, '0');
+
+                return `${year}${month}${day}${hour}${minute}`;
+            }
+
+            // 基于种子的随机数生成器（使用简单的LCG算法）
+            seededRandom(seed) {
+                let value = seed;
+                return function() {
+                    value = (value * 9301 + 49297) % 233280;
+                    return value / 233280;
+                };
+            }
+
+            selectOperators(timeSeed) {
+                // 将时间字符串转换为数字种子
+                let seedNum = 0;
+                for (let i = 0; i < timeSeed.length; i++) {
+                    seedNum = seedNum * 10 + parseInt(timeSeed[i]);
+                }
+
+                // 创建随机数生成器
+                const random = this.seededRandom(seedNum);
+
+                // 复制所有干员数组
+                const shuffled = [...this.allOperators];
+
+                // Fisher-Yates 洗牌算法（使用种子随机数）
+                for (let i = shuffled.length - 1; i > 0; i--) {
+                    const j = Math.floor(random() * (i + 1));
+                    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+                }
+
+                // 选择前30个干员
+                return shuffled.slice(0, 30);
+            }
+
+            generateVerificationCode(operators, timeSeed) {
+                // 生成四位校验码，与后端逻辑一致
+                const operatorNames = operators.map(op => op.姓名).sort();
+                const dataStr = timeSeed + operatorNames.join('');
+
+                // 使用 CryptoJS 生成 MD5
+                const hash = CryptoJS.MD5(dataStr).toString();
+
+                // 取前8位转换为数字，然后取后4位
+                const hashInt = parseInt(hash.substring(0, 8), 16);
+                const code = String(hashInt).slice(-4).padStart(4, '0');
+
+                return code;
+            }
+
+            findAvatarPath(operator) {
+                const name = operator.姓名;
+                return `avatars/${name}_头像_${name}.png`;
+            }
+
+            async startGame() {
+                const startButton = document.getElementById('start-button');
+                const loadingDiv = document.getElementById('loading');
+                const errorDiv = document.getElementById('error-message');
+                const gameContainer = document.getElementById('game-container');
+                const lockNotice = document.getElementById('lock-notice');
+
+                try {
+                    // 检查是否已加载数据
+                    if (this.allOperators.length === 0) {
+                        throw new Error('干员数据尚未加载完成，请稍后再试');
+                    }
+
+                    if (this.allOperators.length < 30) {
+                        throw new Error(`六星干员数量不足，需要30个，当前只有${this.allOperators.length}个`);
+                    }
+
+                    startButton.disabled = true;
+                    startButton.textContent = '🔄 正在加载...';
+                    errorDiv.style.display = 'none';
+                    gameContainer.style.display = 'block';
+                    loadingDiv.style.display = 'block';
+                    lockNotice.style.display = 'none';
+
+                    // 重置游戏状态
+                    this.selectedOperator = null;
+                    this.excludedOperators.clear();
+                    this.selectionLocked = false;
+
+                    // 获取时间种子
+                    this.currentTimeSeed = this.getTimeSeed();
+
+                    // 基于时间种子选择干员
+                    this.operators = this.selectOperators(this.currentTimeSeed);
+
+                    // 为每个干员添加头像路径
+                    this.operators = this.operators.map(op => ({
+                        ...op,
+                        avatar_url: this.findAvatarPath(op)
+                    }));
+
+                    // 生成校验码
+                    const verificationCode = this.generateVerificationCode(this.operators, this.currentTimeSeed);
+
+                    // 获取当前时间戳
+                    const now = new Date();
+                    const timestamp = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')} ${String(now.getHours()).padStart(2, '0')}:${String(now.getMinutes()).padStart(2, '0')}`;
+
+                    this.displayVerificationInfo(verificationCode, timestamp);
+                    this.shuffleOperatorsForDisplay();
+                    this.renderOperators();
+                    this.updateGameStatus();
+
+                    this.isGameStarted = true;
+                    startButton.textContent = '🔄 重新开始';
+
+                } catch (error) {
+                    console.error('Error starting game:', error);
+                    this.showError(`启动游戏失败: ${error.message}`);
+                    gameContainer.style.display = 'none';
+                } finally {
+                    startButton.disabled = false;
+                    loadingDiv.style.display = 'none';
+                }
+            }
+
+            displayVerificationInfo(code, timestamp) {
+                const verificationInfo = document.getElementById('verification-info');
+                const verificationCode = document.getElementById('verification-code');
+                const timestampElement = document.getElementById('timestamp');
+
+                verificationCode.textContent = code;
+                timestampElement.textContent = `生成时间: ${timestamp}`;
+                verificationInfo.style.display = 'block';
+            }
+
+            shuffleOperatorsForDisplay() {
+                // 使用 Fisher-Yates 洗牌算法随机打乱干员显示顺序（仅用于显示）
+                for (let i = this.operators.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [this.operators[i], this.operators[j]] = [this.operators[j], this.operators[i]];
+                }
+            }
+
+            renderOperators() {
+                const grid = document.getElementById('operators-grid');
+                grid.innerHTML = '';
+
+                this.operators.forEach((operator, index) => {
+                    const card = this.createOperatorCard(operator, index);
+                    grid.appendChild(card);
+                });
+            }
+
+            createOperatorCard(operator, index) {
+                const card = document.createElement('div');
+                card.className = 'operator-card';
+                card.dataset.index = index;
+
+                // 如果选择已锁定，添加锁定样式
+                if (this.selectionLocked && this.selectedOperator !== index) {
+                    card.classList.add('selection-locked');
+                }
+
+                const avatar = document.createElement('img');
+                avatar.className = 'operator-avatar';
+                avatar.src = operator.avatar_url;
+                avatar.alt = operator.姓名;
+                avatar.onerror = () => {
+                    avatar.style.display = 'none';
+                };
+
+                const name = document.createElement('div');
+                name.className = 'operator-name';
+                name.textContent = operator.姓名;
+
+                card.appendChild(avatar);
+                card.appendChild(name);
+
+                // 应用当前状态
+                if (this.selectedOperator === index) {
+                    card.classList.add('selected');
+                }
+                if (this.excludedOperators.has(index)) {
+                    card.classList.add('excluded');
+                }
+
+                // 事件监听
+                card.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    this.handleSingleClick(index);
+                });
+
+                card.addEventListener('dblclick', (e) => {
+                    e.preventDefault();
+                    this.handleDoubleClick(index);
+                });
+
+                return card;
+            }
+
+            handleSingleClick(index) {
+                if (!this.isGameStarted) return;
+
+                // 单击：切换排除状态（包括已选中的干员）
+                if (this.excludedOperators.has(index)) {
+                    this.excludedOperators.delete(index);
+                } else {
+                    this.excludedOperators.add(index);
+                }
+
+                this.updateOperatorDisplay(index);
+                this.updateGameStatus();
+            }
+
+            handleDoubleClick(index) {
+                if (!this.isGameStarted) return;
+
+                // 如果选择已锁定，不允许更改选择
+                if (this.selectionLocked) {
+                    return;
+                }
+
+                // 双击：选择干员（一局只能选一次）
+                if (this.selectedOperator === index) {
+                    // 取消选择
+                    this.selectedOperator = null;
+                    this.selectionLocked = false;
+                } else {
+                    // 选择新干员并锁定
+                    this.selectedOperator = index;
+                    this.selectionLocked = true;
+
+                    // 显示锁定提示
+                    document.getElementById('lock-notice').style.display = 'block';
+                }
+
+                this.renderOperators(); // 重新渲染以更新所有状态
+                this.updateGameStatus();
+            }
+
+            updateOperatorDisplay(index) {
+                const card = document.querySelector(`[data-index="${index}"]`);
+                if (!card) return;
+
+                // 清除状态类
+                card.classList.remove('selected', 'excluded');
+
+                // 应用当前状态
+                if (this.selectedOperator === index) {
+                    card.classList.add('selected');
+                }
+                if (this.excludedOperators.has(index)) {
+                    card.classList.add('excluded');
+                }
+            }
+
+            updateGameStatus() {
+                const statusDiv = document.getElementById('game-status');
+
+                let statusText = '';
+                if (this.selectedOperator !== null) {
+                    const selectedOp = this.operators[this.selectedOperator];
+                    statusText += `✅ 已选择: ${selectedOp.姓名}`;
+                    if (this.selectionLocked) {
+                        statusText += ' (已锁定)';
+                    }
+                    statusText += ' ';
+                }
+
+                if (this.excludedOperators.size > 0) {
+                    statusText += `❌ 已排除: ${this.excludedOperators.size} 个干员`;
+                }
+
+                if (!statusText) {
+                    statusText = '🎯 请选择你的干员！双击选择，单击排除。';
+                }
+
+                statusDiv.textContent = statusText;
+            }
+
+            showError(message) {
+                const errorDiv = document.getElementById('error-message');
+                errorDiv.textContent = message;
+                errorDiv.style.display = 'block';
+            }
+        }
+
+        // 初始化游戏
+        document.addEventListener('DOMContentLoaded', () => {
+            new ArknightsGame();
+        });
+    </script>
+</body>
+</html>
